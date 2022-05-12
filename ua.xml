@@ -1,517 +1,523 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <item>
-        <name>Київ</name>
-        <sub type="cd">
-            <item>
-                <name>Деснянський</name>
-            </item>
-            <item>
-                <name>Святошинський</name>
-            </item>
-            <item>
-                <name>Дніпровський</name>
-            </item>
-            <item>
-                <name>Печерський</name>
-            </item>
-            <item>
-                <name>Голосіївський</name>
-            </item>
-            <item>
-                <name>Дарницький</name>
-            </item>
-            <item>
-                <name>Солом’янський</name>
-            </item>
-            <item>
-                <name>Оболонський</name>
-            </item>
-            <item>
-                <name>Шевченківський</name>
-            </item>
-            <item>
-                <name>Подільський</name>
-            </item>
-        </sub>
+    <item name="Київ">
+        <item name="Деснянський"></item>
+        <item name="Святошинський"></item>
+        <item name="Дніпровський" ></item>
+        <item name="Печерський"></item>
+        <item name="Голосіївський"></item>
+        <item name="Дарницький"></item>
+        <item name="Солом’янський"></item>
+        <item name="Оболонський"></item>
+        <item name="Шевченківський"></item>
+        <item name="Подільський"></item>
     </item>
-    <item>
-        <name>Вінницька</name>
-        <sub>
-            <item>
-                <name>Барський</name>
-            </item>
-            <item>
-                <name>Бершадський</name>
-            </item>
-            <item>
-                <name>Вінницький</name>
-            </item>
-            <item>
-                <name>Гайсинський</name>
-            </item>
-            <item>
-                <name>Жмеринський</name>
-            </item>
-            <item>
-                <name>Іллінецький</name>
-            </item>
-            <item>
-                <name>Калинівський</name>
-            </item>
-            <item>
-                <name>Козятинський</name>
-            </item>
-            <item>
-                <name>Крижопільський</name>
-            </item>
-            <item>
-                <name>Липовецький</name>
-            </item>
-            <item>
-                <name>Літинський</name>
-            </item>
-            <item>
-                <name>Могилів-Подільський</name>
-            </item>
-            <item>
-                <name>Мурованокуриловецький</name>
-            </item>
-            <item>
-                <name>Немирівський</name>
-            </item>
-            <item>
-                <name>Оратівський</name>
-            </item>
-            <item>
-                <name>Піщанський</name>
-            </item>
-            <item>
-                <name>Погребищенський</name>
-            </item>
-            <item>
-                <name>Теплицький</name>
-            </item>
-            <item>
-                <name>Тиврівський</name>
-            </item>
-            <item>
-                <name>Томашпільський</name>
-            </item>
-            <item>
-                <name>Тростянецький</name>
-            </item>
-            <item>
-                <name>Тульчинський</name>
-            </item>
-            <item>
-                <name>Хмільницький</name>
-            </item>
-            <item>
-                <name>Чернівецький</name>
-            </item>
-            <item>
-                <name>Чечельницький</name>
-            </item>
-            <item>
-                <name>Шаргородський</name>
-            </item>
-            <item>
-                <name>Ямпільський</name>
-            </item>
-        </sub>
+    
+    <item name="Вінницька">
+        <item name="Вінницький">
+            <item name="Вінниця"></item>
+            <item name="Іллінці"></item>
+            <item name="Липовець"></item>
+            <item name="Немирів"></item>
+            <item name="Погребище"></item>
+            <item name="Гнівань"></item>
+        </item>
+        <item name="Жмеринський">
+            <item name="Жмеринка"></item>
+            <item name="Бар"></item>
+            <item name="Шаргород"></item>
+        </item>
+        <item name="Могилів-Подільський">
+            <item name="Могилів-Подільський"></item>
+            <item name="Ямпіль"></item>
+        </item>
+        <item name="Хмільницький">
+            <item name="Козятин"></item>
+            <item name="Хмільник"></item>
+            <item name="Калинівка"></item>
+        </item>
+        <item name="Гайсинський">
+            <item name="Ладижин"></item>
+            <item name="Бершадь"></item>
+            <item name="Гайсин"></item>
+        </item>
+        <item name="Тульчинський">
+            <item name="Тульчин"></item>
+        </item>
     </item>
-    <item>
-        <name>Волинська</name>
-        <sub>
-            <item>
-                <name>Володимир-Волинський</name>
-            </item>
-            <item>
-                <name>Володимир-Волинський</name>
-            </item>
-            <item>
-                <name>Горохівський</name>
-            </item>
-            <item>
-                <name>Іваничівський</name>
-            </item>
-            <item>
-                <name>Камінь-Каширський</name>
-            </item>
-            <item>
-                <name>Ківерцівський</name>
-            </item>
-            <item>
-                <name>Ковель</name>
-            </item>
-            <item>
-                <name>Ковельський</name>
-            </item>
-            <item>
-                <name>Локачинський</name>
-            </item>
-            <item>
-                <name>Луцьк</name>
-            </item>
-            <item>
-                <name>Луцький</name>
-            </item>
-            <item>
-                <name>Любешівський</name>
-            </item>
-            <item>
-                <name>Любомльський</name>
-            </item>
-            <item>
-                <name>Маневицький</name>
-            </item>
-            <item>
-                <name>Нововолинськ</name>
-            </item>
-            <item>
-                <name>Ратнівський</name>
-            </item>
-            <item>
-                <name>Рожищенський</name>
-            </item>
-            <item>
-                <name>Старовижівський</name>
-            </item>
-            <item>
-                <name>Турійський</name>
-            </item>
-            <item>
-                <name>Шацький</name>
-            </item>
-        </sub>
+    
+    <item name="Волинська">
+        <item name="Луцький">
+            <item name="Луцьк"></item>
+            <item name="Берестечко"></item>
+            <item name="Горохів"></item>
+            <item name="Ківерці"></item>
+            <item name="Рожище"></item>
+        </item>
+        <item name="Володимир-Волинський">
+            <item name="Володимир"></item>
+            <item name="Нововолинськ"></item>
+            <item name="Устилуг"></item>
+        </item>
+        <item name="Ковельський">
+            <item name="Ковель"></item>
+            <item name="Любомль"></item>
+        </item>
+        <item name="Камінь-Каширський">
+            <item name="Камінь-Каширський"></item>
+        </item>
     </item>
-    <item>
-        <name>Дніпропетровська</name>
-        <sub>
-            <item>
-                <name>Дніпро</name>
-                <sub>
-                    <item>
-                        <name>Новокодацький</name>
-                    </item>
-                    <item>
-                        <name>Центральний</name>
-                    </item>
-                    <item>
-                        <name>Чечелівський</name>
-                    </item>
-                    <item>
-                        <name>Соборний</name>
-                    </item>
-                    <item>
-                        <name>Шевченківський</name>
-                    </item>
-                    <item>
-                        <name>Амур-Нижньодніпровський</name>
-                    </item>
-                    <item>
-                        <name>Індустріальний</name>
-                    </item>
-                    <item>
-                        <name>Самарський</name>
-                    </item>
-                </sub>
-            </item>            
-            <item>
-                <name>Апостолівський</name>
-            </item>
-            <item>
-                <name>Васильківський</name>
-            </item>
-            <item>
-                <name>Верхньодніпровський</name>
-            </item>
-            <item>
-                <name>Дніпропетровський</name>
-            </item>
-            <item>
-                <name>Криворізький</name>
-            </item>
-            <item>
-                <name>Криничанський</name>
-            </item>
-            <item>
-                <name>Магдалинівський</name>
-            </item>
-            <item>
-                <name>Межівський</name>
-            </item>
-            <item>
-                <name>Нікопольський</name>
-            </item>
-            <item>
-                <name>Новомосковський</name>
-            </item>
-            <item>
-                <name>Павлоградський</name>
-            </item>
-            <item>
-                <name>Петриківський</name>
-            </item>
-            <item>
-                <name>Петропавлівський</name>
-            </item>
-            <item>
-                <name>Покровський</name>
-            </item>
-            <item>
-                <name>П'ятихатський</name>
-            </item>
-            <item>
-                <name>Синельниківський</name>
-            </item>
-            <item>
-                <name>Солонянський</name>
-            </item>
-            <item>
-                <name>Софіївський</name>
-            </item>
-            <item>
-                <name>Томаківський</name>
-            </item>
-            <item>
-                <name>Царичанський</name>
-            </item>
-            <item>
-                <name>Широківський</name>
-            </item>
-            <item>
-                <name>Юр'ївський</name>
-            </item>
-        </sub>
+    <item name="Дніпропетровська">
+        <item>
+            <name>Дніпро</name>
+            <sub>
+                <item>
+                    <name>Новокодацький</name>
+                </item>
+                <item>
+                    <name>Центральний</name>
+                </item>
+                <item>
+                    <name>Чечелівський</name>
+                </item>
+                <item>
+                    <name>Соборний</name>
+                </item>
+                <item>
+                    <name>Шевченківський</name>
+                </item>
+                <item>
+                    <name>Амур-Нижньодніпровський</name>
+                </item>
+                <item>
+                    <name>Індустріальний</name>
+                </item>
+                <item>
+                    <name>Самарський</name>
+                </item>
+            </sub>
+        </item>            
+        <item>
+            <name>Апостолівський</name>
+        </item>
+        <item>
+            <name>Васильківський</name>
+        </item>
+        <item>
+            <name>Верхньодніпровський</name>
+        </item>
+        <item>
+            <name>Дніпропетровський</name>
+        </item>
+        <item>
+            <name>Криворізький</name>
+        </item>
+        <item>
+            <name>Криничанський</name>
+        </item>
+        <item>
+            <name>Магдалинівський</name>
+        </item>
+        <item>
+            <name>Межівський</name>
+        </item>
+        <item>
+            <name>Нікопольський</name>
+        </item>
+        <item>
+            <name>Новомосковський</name>
+        </item>
+        <item>
+            <name>Павлоградський</name>
+        </item>
+        <item>
+            <name>Петриківський</name>
+        </item>
+        <item>
+            <name>Петропавлівський</name>
+        </item>
+        <item>
+            <name>Покровський</name>
+        </item>
+        <item>
+            <name>П'ятихатський</name>
+        </item>
+        <item>
+            <name>Синельниківський</name>
+        </item>
+        <item>
+            <name>Солонянський</name>
+        </item>
+        <item>
+            <name>Софіївський</name>
+        </item>
+        <item>
+            <name>Томаківський</name>
+        </item>
+        <item>
+            <name>Царичанський</name>
+        </item>
+        <item>
+            <name>Широківський</name>
+        </item>
+        <item>
+            <name>Юр'ївський</name>
+        </item>
     </item>
-    <item>
-        <name>Донецька</name>
-        <sub>
-            <item>
-                <name>Донецьк</name>
-                <sub>
-                    <item>
-                        <name>Будьонівський</name>
-                    </item>
-                    <item>
-                        <name>Ворошиловський</name>
-                    </item>
-                    <item>
-                        <name>Калінінський</name>
-                    </item>
-                    <item>
-                        <name>Київський</name>
-                    </item>
-                    <item>
-                        <name>Кіровський</name>
-                    </item>
-                    <item>
-                        <name>Куйбишевський</name>
-                    </item>
-                    <item>
-                        <name>Ленінський</name>
-                    </item>
-                    <item>
-                        <name>Петровський</name>
-                    </item>
-                    <item>
-                        <name>Пролетарський</name>
-                    </item>
-                </sub>
-            </item>
-        </sub>        
+    <item name="Донецька">
+        <item name="Донецьк">
+            <item name="Будьонівський"></item>
+            <item name="Ворошиловський"></item>
+            <item name="Калінінський"></item>
+            <item name="Київський"></item>
+            <item name="Кіровський"></item>            
+            <item name="Куйбишевський"></item>
+            <item name="Ленінський"></item>
+            <item name="Петровський"></item>
+            <item name="Пролетарський"></item>
+        </item>       
     </item>
-    <item>
-        <name>Житомирська</name>
-        <sub>
-            <item>
-                <name>Житомир</name>
-                <sub>
-                    <item>
-                        <name>Богунський</name>
-                    </item>
-                    <item>
-                        <name>Корольовський</name>
-                    </item>
-                </sub>
-            </item>
-        </sub>
+    <item name="Житомирська">
+        <item>
+            <name>Житомир</name>
+            <sub>
+                <item>
+                    <name>Богунський</name>
+                </item>
+                <item>
+                    <name>Корольовський</name>
+                </item>
+            </sub>
+        </item>
+        <item>
+            <name>Андрушівський</name>
+        </item>
+        <item>
+            <name>Баранівський</name>
+        </item>
+        <item>
+            <name>Бердичівський</name>
+        </item>
+        <item>
+            <name>Брусилівський</name>
+        </item>
+        <item>
+            <name>Ємільчинський</name>
+        </item>
+        <item>
+            <name>Житомирський</name>
+        </item>
+        <item>
+            <name>Коростенський</name>
+        </item>
+        <item>
+            <name>Коростишівський</name>
+        </item>
+        <item>
+            <name>Лугинський</name>
+        </item>
+        <item>
+            <name>Любарський</name>
+        </item>
+        <item>
+            <name>Малинський</name>
+        </item>
+        <item>
+            <name>Народицький</name>
+        </item>
+        <item>
+            <name>Новоград-Волинський</name>
+        </item>
+        <item>
+            <name>Овруцький</name>
+        </item>
+        <item>
+            <name>Олевський</name>
+        </item>
+        <item>
+            <name>Попільнянський</name>
+        </item>
+        <item>
+            <name>Пулинський</name>
+        </item>
+        <item>
+            <name>Радомишльський</name>
+        </item>
+        <item>
+            <name>Романівський</name>
+        </item>
+        <item>
+            <name>Ружинський</name>
+        </item>
+        <item>
+            <name>Хорошівський</name>
+        </item>
+        <item>
+            <name>Черняхівський</name>
+        </item>
+        <item>
+            <name>Чуднівський</name>
+        </item>
     </item>
-    <item>
-        <name>Закарпатська</name>
-        <sub>
-            <item>
-                <name>Берегівський</name>
-            </item>
-            <item>
-                <name>Мукачівський</name>
-            </item>
-            <item>
-                <name>Рахівський</name>
-            </item>
-            <item>
-                <name>Тячівський</name>
-            </item>
-            <item>
-                <name>Ужгородський</name>
-            </item>
-            <item>
-                <name>Хустський</name>
-            </item>
-        </sub>
+    <item name="Закарпатська">
+        <item>
+            <name>Берегівський</name>
+        </item>
+        <item>
+            <name>Мукачівський</name>
+        </item>
+        <item>
+            <name>Рахівський</name>
+        </item>
+        <item>
+            <name>Тячівський</name>
+        </item>
+        <item>
+            <name>Ужгородський</name>
+        </item>
+        <item>
+            <name>Хустський</name>
+        </item>
     </item>
-    <item>
-        <name>Запорізька</name>
-        <sub>
-            <item>
-                <name>Бердянський</name>
-            </item>
-            <item>
-                <name>Більмацький</name>
-            </item>
-            <item>
-                <name>Василівський</name>
-            </item>
-            <item>
-                <name>Великобілозерський</name>
-            </item>
-            <item>
-                <name>Веселівський</name>
-            </item>
-            <item>
-                <name>Вільнянський</name>
-            </item>
-            <item>
-                <name>Гуляйпільський</name>
-            </item>
-            <item>
-                <name>Запорізький</name>
-            </item>
-            <item>
-                <name>Кам'янсько-Дніпровський</name>
-            </item>
-            <item>
-                <name>Мелітопольський</name>
-            </item>
-            <item>
-                <name>Михайлівський</name>
-            </item>
-            <item>
-                <name>Новомиколаївський</name>
-            </item>
-            <item>
-                <name>Оріхівський</name>
-            </item>
-            <item>
-                <name>Пологівський</name>
-            </item>
-            <item>
-                <name>Приазовський</name>
-            </item>
-            <item>
-                <name>Приморський</name>
-            </item>
-            <item>
-                <name>Розівський</name>
-            </item>
-            <item>
-                <name>Токмацький</name>
-            </item>
-            <item>
-                <name>Чернігівський</name>
-            </item>
-            <item>
-                <name>Якимівський</name>
-            </item>
-        </sub>
+    <item name="Запорізька">
+        <item>
+            <name>Бердянський</name>
+        </item>
+        <item>
+            <name>Більмацький</name>
+        </item>
+        <item>
+            <name>Василівський</name>
+        </item>
+        <item>
+            <name>Великобілозерський</name>
+        </item>
+        <item>
+            <name>Веселівський</name>
+        </item>
+        <item>
+            <name>Вільнянський</name>
+        </item>
+        <item>
+            <name>Гуляйпільський</name>
+        </item>
+        <item>
+            <name>Запорізький</name>
+        </item>
+        <item>
+            <name>Кам'янсько-Дніпровський</name>
+        </item>
+        <item>
+            <name>Мелітопольський</name>
+        </item>
+        <item>
+            <name>Михайлівський</name>
+        </item>
+        <item>
+            <name>Новомиколаївський</name>
+        </item>
+        <item>
+            <name>Оріхівський</name>
+        </item>
+        <item>
+            <name>Пологівський</name>
+        </item>
+        <item>
+            <name>Приазовський</name>
+        </item>
+        <item>
+            <name>Приморський</name>
+        </item>
+        <item>
+            <name>Розівський</name>
+        </item>
+        <item>
+            <name>Токмацький</name>
+        </item>
+        <item>
+            <name>Чернігівський</name>
+        </item>
+        <item>
+            <name>Якимівський</name>
+        </item>
     </item>
-    <item>
-        <name>Івано-Франківська</name>
+    <item name="Івано-Франківська">
+        <item>
+            <name>Верховинський</name>
+        </item>
+        <item>
+            <name>Тисменицький</name>
+        </item>
+        <item>
+            <name>Калуський</name>
+        </item>
+        <item>
+            <name>Коломийський</name>
+        </item>
+        <item>
+            <name>Косівський</name>
+        </item>
+        <item>
+            <name>Надвірнянський</name>
+        </item>
+        <item>
+            <name>Рогатинський</name>
+        </item>
+        <item>
+            <name>Рожнятівський</name>
+        </item>
+        <item>
+            <name>Снятинський</name>
+        </item>
+        <item>
+            <name>Тлумацький</name>
+        </item>
+        <item>
+            <name>Богородчанський</name>
+        </item>
+        <item>
+            <name>Галицький</name>
+        </item>
+        <item>
+            <name>Городенківський</name>
+        </item>
+        <item>
+            <name>Долинський</name>
+        </item>        
     </item>
-    <item>
-        <name>Київська</name>
+    <item name="Київська">
+        <item name="Білоцерківський">
+        
+        </item>        
+        <item name="Бориспільський">
+        
+        </item>
+        <item name="Броварський">
+        
+        </item>
+        <item name="Бучанський">
+        
+        </item>
+        <item name="Вишгородський">
+        
+        </item>
+        <item name="Обухівський">
+        
+        </item>
+        <item name="Фастівський">
+        
+        </item>
     </item>
-    <item>
-        <name>Кіровоградська</name>
+    <item name="Кіровоградська">
+        
     </item>
-    <item>
-        <name>Луганська</name>
+    <item name="Луганська">
+        
     </item>
-    <item>
-        <name>Львівська</name>
+    <item name="Львівська">
+        <item name="Дрогобицький">
+        
+        </item>
+        <item name="Золочівський">
+        
+        </item>
+        <item name="Львівський">
+        
+        </item>
+        <item name="Самбірський">
+        
+        </item>
+        <item name="Стрийський">
+        
+        </item>
+        <item name="Червоноградський">
+        
+        </item>
+        <item name="Яворівський">
+        
+        </item>
     </item>
-    <item>
-        <name>Миколаївська</name>
-    </item>
-    <item>
-        <name>Одеська</name>
-    </item>
-    <item>
-        <name>Полтавська</name>
-    </item>
-    <item>
-        <name>Рівненська</name>
-    </item>
-    <item>
-        <name>Сумська</name>
-    </item>
-    <item>
-        <name>Тернопільська</name>
-    </item>
-    <item>
-        <name>Харківська</name>
-        <sub>
-            <item>
-                <name>Харків</name>
-                <sub>
-                    <item>
-                        <name>Шевченківський</name>
-                    </item>
-                    <item>
-                        <name>Новобаварський</name>
-                    </item>
-                    <item>
-                        <name>Київський</name>
-                    </item>
-                    <item>
-                        <name>Слобідський</name>
-                    </item>
-                    <item>
-                        <name>Холодногірський</name>
-                    </item>
-                    <item>
-                        <name>Московський</name>
-                    </item>
-                    <item>
-                        <name>Індустріальний</name>
-                    </item>
-                    <item>
-                        <name>Немишлянський</name>
-                    </item>
-                    <item>
-                        <name>Основ'янський</name>
-                    </item>
+    <item name="Миколаївська">
 
-                </sub>
+    </item>
+    <item name="Одеська">
+        <item name="Березівський">
+            <item name="Березівка"></item>
+        </item>
+        <item name="Білгород-Дністровський">
+            <item name="Білгород-Дністровський"></item>
+        </item>
+        <item name="Болградський">
+            <item name="Арциз"></item>
+            <item name="Болград"></item>
+        </item>
+        <item name="Ізмаїльський">
+            <item name="Вилкове"></item>
+            <item name="Ізмаїл"></item>
+            <item name="Кілія"></item>
+            <item name="Рені"></item>
+        </item>
+        <item name="Одеський">
+            <item name="Одеса">
+                <item name="Київський"></item>
+                <item name="Малиновський"></item>
+                <item name="Приморський"></item>
+                <item name="Суворовський"></item>
             </item>
-        </sub>
+            <item name="Біляївка"></item>
+            <item name="Теплодар"></item>
+            <item name="Чорноморськ"></item>
+            <item name="Южне"></item>
+        </item>
+        <item name="Подільський">
+            <item name="Ананьїв"></item>
+            <item name="Балта"></item>
+            <item name="Кодима"></item>
+            <item name="Подільськ"></item>
+        </item>
+        <item name="Роздільнянський">
+            <item name="Роздільна"></item>
+        </item>
     </item>
-    <item>
-        <name>Херсонська</name>
+    <item name="Полтавська">
+
     </item>
-    <item>
-        <name>Хмельницька</name>
+    <item name="Рівненська">
+
     </item>
-    <item>
-        <name>Черкаська</name>
+    <item name="Сумська">
+
     </item>
-    <item>
-        <name>Чернівецька</name>
+    <item name="Тернопільська">
+ 
     </item>
-    <item>
-        <name>Чернігівська</name>
+    <item name="Харківська">
+        <item name="Харків">                
+            <item name="Шевченківський"></item>
+            <item name="Новобаварський"></item>
+            <item name="Київський"></item>
+            <item name="Слобідський"></item>
+            <item name="Холодногірський"></item>
+            <item name="Московський"></item>
+            <item name="Індустріальний"></item>                
+            <item name="Немишлянський"></item>
+            <item name="Основ'янський"></item>
+        </item>
+    </item>
+    <item name="Херсонська">
+
+    </item>
+    <item name="Хмельницька">
+ 
+    </item>
+    <item name="Черкаська">
+ 
+    </item>
+    <item name="Чернівецька">
+ 
+    </item>
+    <item name="Чернігівська">
+ 
     </item>
 </root>
 
