@@ -123,6 +123,68 @@
     </item>
     <item>
         <name>Волинська</name>
+        <sub>
+            <item>
+                <name>Володимир-Волинський</name>
+            </item>
+            <item>
+                <name>Володимир-Волинський</name>
+            </item>
+            <item>
+                <name>Горохівський</name>
+            </item>
+            <item>
+                <name>Іваничівський</name>
+            </item>
+            <item>
+                <name>Камінь-Каширський</name>
+            </item>
+            <item>
+                <name>Ківерцівський</name>
+            </item>
+            <item>
+                <name>Ковель</name>
+            </item>
+            <item>
+                <name>Ковельський</name>
+            </item>
+            <item>
+                <name>Локачинський</name>
+            </item>
+            <item>
+                <name>Луцьк</name>
+            </item>
+            <item>
+                <name>Луцький</name>
+            </item>
+            <item>
+                <name>Любешівський</name>
+            </item>
+            <item>
+                <name>Любомльський</name>
+            </item>
+            <item>
+                <name>Маневицький</name>
+            </item>
+            <item>
+                <name>Нововолинськ</name>
+            </item>
+            <item>
+                <name>Ратнівський</name>
+            </item>
+            <item>
+                <name>Рожищенський</name>
+            </item>
+            <item>
+                <name>Старовижівський</name>
+            </item>
+            <item>
+                <name>Турійський</name>
+            </item>
+            <item>
+                <name>Шацький</name>
+            </item>
+        </sub>
     </item>
     <item>
         <name>Дніпропетровська</name>
@@ -155,6 +217,72 @@
                         <name>Самарський</name>
                     </item>
                 </sub>
+            </item>            
+            <item>
+                <name>Апостолівський</name>
+            </item>
+            <item>
+                <name>Васильківський</name>
+            </item>
+            <item>
+                <name>Верхньодніпровський</name>
+            </item>
+            <item>
+                <name>Дніпропетровський</name>
+            </item>
+            <item>
+                <name>Криворізький</name>
+            </item>
+            <item>
+                <name>Криничанський</name>
+            </item>
+            <item>
+                <name>Магдалинівський</name>
+            </item>
+            <item>
+                <name>Межівський</name>
+            </item>
+            <item>
+                <name>Нікопольський</name>
+            </item>
+            <item>
+                <name>Новомосковський</name>
+            </item>
+            <item>
+                <name>Павлоградський</name>
+            </item>
+            <item>
+                <name>Петриківський</name>
+            </item>
+            <item>
+                <name>Петропавлівський</name>
+            </item>
+            <item>
+                <name>Покровський</name>
+            </item>
+            <item>
+                <name>П'ятихатський</name>
+            </item>
+            <item>
+                <name>Синельниківський</name>
+            </item>
+            <item>
+                <name>Солонянський</name>
+            </item>
+            <item>
+                <name>Софіївський</name>
+            </item>
+            <item>
+                <name>Томаківський</name>
+            </item>
+            <item>
+                <name>Царичанський</name>
+            </item>
+            <item>
+                <name>Широківський</name>
+            </item>
+            <item>
+                <name>Юр'ївський</name>
             </item>
         </sub>
     </item>
