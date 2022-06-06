@@ -180,7 +180,7 @@
             <hromada name="Ратнівська" type="селищна"></hromada>
             <hromada name="Рівненська" type="сільська"></hromada>
             <hromada name="Самарівська" type="сільська"></hromada>
-<hromada name="Сереховичівська" type="сільська"></hromada>
+            <hromada name="Сереховичівська" type="сільська"></hromada>
             <hromada name="Смідинська" type="сільська"></hromada>
             <hromada name="Старовижівська" type="селищна"></hromada>
             <hromada name="Турійська" type="селищна"></hromada>
@@ -669,27 +669,90 @@
         </item>
     </province>
     <province name="Чернівецька">
-        <item name="Вижницький">
-            <item name="Вижниця"></item>
-            <item name="Вашківці"></item>
-        </item>
-        <item name="Дністровський">
-            <item name="Новодністровськ"></item>
-            <item name="Сокиряни"></item>
-            <item name="Хотин"></item>
-        </item>
-        <item name="Чернівецький">
-            <item name="Чернівці">
-                <item name="Першотравневий"></item>
-                <item name="Шевченківський"></item>
-                <item name="Садгірський"></item>
-            </item>
-            <item name="Герца"></item>
-            <item name="Заставна"></item>
-            <item name="Кіцмань"></item>
-            <item name="Новоселиця"></item>
-            <item name="Сторожинець"></item>
-        </item>
+        <district name="Вижницький">
+            <hromada name="Банилівська" type="сільська"></hromada>
+            <hromada name="Берегометська" type="селищна"></hromada>
+            <hromada name="Брусницька" type="сільська"></hromada>
+            <hromada name="Вашківецька" type="міська">
+                <city name="Вашківці"></city>
+            </hromada>
+            <hromada name="Вижницька" type="міська">
+                <city name="Вижниця"></city>
+            </hromada>
+            <hromada name="Конятинська" type="сільська"></hromada>
+            <hromada name="Путильська" type="селищна"></hromada>
+            <hromada name="Селятинська" type="сільська"></hromada>
+            <hromada name="Усть-Путильська" type="сільська"></hromada>
+        </district>
+        <district name="Дністровський">
+            <hromada name="Вашковецька" type="сільська"></hromada>
+            <hromada name="Кельменецька" type="селищна"></hromada>
+            <hromada name="Клішковецька" type="сільська"></hromada>
+            <hromada name="Лівинецька" type="сільська"></hromada>
+            <hromada name="Мамалигівська" type="сільська"></hromada>
+            <hromada name="Недобоївська" type="сільська"></hromada>
+            <hromada name="Новодністровська" type="міська">
+                <city name="Новодністровськ"></city>
+            </hromada>
+            <hromada name="Рукшинська" type="сільська"></hromada>
+            <hromada name="Сокирянська" type="міська">
+                <city name="Сокиряни"></city>
+            </hromada>
+            <hromada name="Хотинська" type="міська">
+                <city name="Хотин"></city>
+            </hromada>
+        </district>
+        <district name="Чернівецький">
+            <hromada name="Боянська" type="сільська"></hromada>
+            <hromada name="Ванчиковецька" type="сільська"></hromada>
+            <hromada name="Великокучурівська" type="сільська"></hromada>
+            <hromada name="Веренчанська" type="сільська"></hromada>
+            <hromada name="Вікнянська" type="сільська"></hromada>
+            <hromada name="Волоківська" type="сільська"></hromada>
+            <hromada name="Герцаївська" type="міська">
+                <city name="Герца"></city>
+            </hromada>
+            <hromada name="Глибоцька" type="селищна"></hromada>
+            <hromada name="Горішньошеровецька" type="сільська"></hromada>
+            <hromada name="Заставнівська" type="міська">
+                <city name="Заставна"></city>
+            </hromada>
+            <hromada name="Кадубовецька" type="сільська"></hromada>
+            <hromada name="Кам’янецька" type="сільська"></hromada>
+            <hromada name="Кам’янська" type="сільська"></hromada>
+            <hromada name="Карапчівська" type="сільська"></hromada>
+            <hromada name="Кіцманська" type="міська">
+                <city name="Кіцмань"></city>
+            </hromada>
+            <hromada name="Кострижівська" type="селищна"></hromada>
+            <hromada name="Краснальська" type="селищна"></hromada>
+            <hromada name="Магальська" type="сільська"></hromada>
+            <hromada name="Мамаївська" type="сільська"></hromada>
+            <hromada name="Неполоковецька" type="селищна"></hromada>
+            <hromada name="Новоселицька" type="міська">
+                <city name="Новоселиця"></city>
+            </hromada>
+            <hromada name="Острицька" type="сільська"></hromada>
+            <hromada name="Петровецька" type="сільська"></hromada>
+            <hromada name="Ставчанська" type="сільська"></hromada>
+            <hromada name="Сторожинецька" type="міська">
+                <city name="Сторожинець"></city>
+            </hromada>
+            <hromada name="Сучевенська" type="сільська"></hromada>
+            <hromada name="Тарашанська" type="сільська"></hromada>
+            <hromada name="Тереблеченська" type="сільська"></hromada>
+            <hromada name="Топорівська" type="сільська"></hromada>
+            <hromada name="Чагорська" type="сільська"></hromada>
+            <hromada name="Чернівецька" type="міська">
+                <city name="Чернівці">
+                    <item name="Першотравневий"></item>
+                    <item name="Шевченківський"></item>
+                    <item name="Садгірський"></item>
+                </city>
+            </hromada>
+            <hromada name="Чудейська" type="сільська"></hromada>
+            <hromada name="Юрковецька" type="сільська"></hromada>
+        </district>
     </province>
     <province name="Чернігівська">
         <item name="Корюківський">
