@@ -558,22 +558,103 @@
     </province>
     <province name="Закарпатська">
         <district name="Берегівський">
-
+            <hromada name="Батівська" type="селищна"></hromada>
+            <hromada name="Берегівська" type="міська">
+                <city name="Берегове"></city>
+            </hromada>
+            <hromada name="Великоберезька" type="сільська"></hromada>
+            <hromada name="Великобийганська" type="сільська"></hromada>
+            <hromada name="Вилоцька" type="селищна"></hromada>
+            <hromada name="Виноградівська" type="міська">
+                <city name="Виноградів"></city>
+            </hromada>
+            <hromada name="Кам'янська" type="сільська"></hromada>
+            <hromada name="Королівська" type="селищна"></hromada>
+            <hromada name="Косоньська" type="сільська"></hromada>
+            <hromada name="Пийтерфолвівська" type="сільська"></hromada>
         </district>
         <district name="Мукачівський">
-
+            <hromada name="Великолучківська" type="сільська"></hromada>
+            <hromada name="Верхньокоропецька" type="сільська"></hromada>
+            <hromada name="Воловецька" type="селищна"></hromada>
+            <hromada name="Горондівська" type="сільська"></hromada>
+            <hromada name="Жденіївська" type="селищна"></hromada>
+            <hromada name="Івановецька" type="сільська"></hromada>
+            <hromada name="Кольчинська" type="селищна"></hromada>
+            <hromada name="Мукачівська" type="міська">
+                <city name="Мукачеве"></city>
+            </hromada>
+            <hromada name="Неліпинська" type="сільська"></hromada>
+            <hromada name="Нижньоворітська" type="сільська"></hromada>
+            <hromada name="Полянська" type="сільська"></hromada>
+            <hromada name="Свалявська" type="міська">
+                <city name="Свалява"></city>
+            </hromada>
+            <hromada name="Чинадіївська" type="селищна"></hromada>
         </district>
         <district name="Рахівський">
-
+            <hromada name="Богданська" type="сільська"></hromada>
+            <hromada name="Великобичківська" type="селищна"></hromada>
+            <hromada name="Рахівська" type="міська">
+                <city name="Рахів"></city>
+            </hromada>
+            <hromada name="Ясінянська" type="селищна"></hromada>
         </district>
         <district name="Тячівський">
-
+            <hromada name="Бедевлянська" type="сільська"></hromada>
+            <hromada name="Буштинська" type="селищна"></hromada>
+            <hromada name="Вільховецька" type="сільська"></hromada>
+            <hromada name="Дубівська" type="селищна"></hromada>
+            <hromada name="Нересницька" type="сільська"></hromada>
+            <hromada name="Солотвинська" type="селищна"></hromada>
+            <hromada name="Тересвянська" type="селищна"></hromada>
+            <hromada name="Тячівська" type="міська">
+                <city name="Тячів"></city>
+            </hromada>
+            <hromada name="Углянська" type="сільська"></hromada>
+            <hromada name="Усть-Чорнянська" type="селищна"></hromada>
         </district>
         <district name="Ужгородський">
-
+            <hromada name="Баранинська" type="сільська"></hromada>
+            <hromada name="Великоберезнянська" type="селищна"></hromada>
+            <hromada name="Великодобронська" type="сільська"></hromada>
+            <hromada name="Дубриницько-Малоберезнянська" type="сільська"></hromada>
+            <hromada name="Костринська" type="сільська"></hromada>
+            <hromada name="Оноківська" type="сільська"></hromada>
+            <hromada name="Перечинська" type="міська">
+                <city name="Перечин"></city>
+            </hromada>
+            <hromada name="Середнянська" type="селищна"></hromada>
+            <hromada name="Ставненська" type="сільська"></hromada>
+            <hromada name="Сюртівська" type="сільська"></hromada>
+            <hromada name="Тур'є-Реметівська" type="сільська"></hromada>
+            <hromada name="Ужгородська" type="міська">
+                <city name="Ужгород"></city>
+            </hromada>
+            <hromada name="Холмківська" type="сільська"></hromada>
+            <hromada name="Чопська" type="міська">
+                <city name="Чоп"></city>
+            </hromada>
         </district>
         <district name="Хустський">
-
+            <hromada name="Білківська" type="сільська"></hromada>
+            <hromada name="Вишківська" type="селищна"></hromada>
+            <hromada name="Горінчівська" type="сільська"></hromada>
+            <hromada name="Довжанська" type="сільська"></hromada>
+            <hromada name="Драгівська" type="сільська"></hromada>
+            <hromada name="Зарічанська" type="сільська"></hromada>
+            <hromada name="Іршавська" type="міська">
+                <city name="Іршава"></city>
+            </hromada>
+            <hromada name="Кам'янська" type="сільська"></hromada>
+            <hromada name="Керецьківська" type="сільська"></hromada>
+            <hromada name="Колочавська" type="сільська"></hromada>
+            <hromada name="Міжгірська" type="селищна"></hromada>
+            <hromada name="Пилипецька" type="сільська"></hromada>
+            <hromada name="Синевирська" type="сільська"></hromada>
+            <hromada name="Хустська" type="міська">
+                <city name="Хуст"></city>
+            </hromada>
         </district>
     </province>
     <province name="Запорізька">
