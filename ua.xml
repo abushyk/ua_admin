@@ -1,1113 +1,1223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <city name="Київ">
-        <citydistrict name="Деснянський"></citydistrict>
-        <citydistrict name="Святошинський"></citydistrict>
-        <citydistrict name="Дніпровський" ></citydistrict>
-        <citydistrict name="Печерський"></citydistrict>
-        <citydistrict name="Голосіївський"></citydistrict>
-        <citydistrict name="Дарницький"></citydistrict>
-        <citydistrict name="Солом'янський"></citydistrict>
-        <citydistrict name="Оболонський"></citydistrict>
-        <citydistrict name="Шевченківський"></citydistrict>
-        <citydistrict name="Подільський"></citydistrict>
-    </city>
+	<city name="Київ">
+		<citydistrict name="Деснянський"></citydistrict>
+		<citydistrict name="Святошинський"></citydistrict>
+		<citydistrict name="Дніпровський" ></citydistrict>
+		<citydistrict name="Печерський"></citydistrict>
+		<citydistrict name="Голосіївський"></citydistrict>
+		<citydistrict name="Дарницький"></citydistrict>
+		<citydistrict name="Солом'янський"></citydistrict>
+		<citydistrict name="Оболонський"></citydistrict>
+		<citydistrict name="Шевченківський"></citydistrict>
+		<citydistrict name="Подільський"></citydistrict>
+		<metro name="Академмістечко">
+			<geo>
+				<center>
+					<lat>50.465483</lat>
+					<lng>30.355096</lng>
+				</center>Академгородок 50.464921, 30.355120
+			</geo>
+		</metro>
+		<metro name="Арсенальна"></metro>
+		<metro name="Берестейська"></metro>
+		<metro name="Бориспільська"></metro>
+		<metro name="Васильківська"></metro>
+		<metro name="Видубичі"></metro>
+		<metro name="Вирлиця"></metro>
+		<metro name="Виставковий центр"></metro>
+		<metro name="Вокзальна"></metro>
+		<metro name="Героїв Дніпра"></metro>
+		<metro name="Гідропарк"></metro>
+		<metro name="Голосіївська"></metro>
+		<metro name="Дарниця"></metro>
+		<metro name="Деміївська"></metro>
+		<metro name="Дніпро"></metro>
+		<metro name="Дорогожичі"></metro>
+		<metro name="Дружби народів"></metro>
+		<metro name="Житомирська"></metro>
+		<metro name="Золоті ворота"></metro>
+		<metro name="Іподром"></metro>
+		<metro name="Кловська"></metro>
+		<metro name="Контрактова площа"></metro>
+		<metro name="Либідська"></metro>
+		<metro name="Лівобережна"></metro>
+		<metro name="Лісова"></metro>
+		<metro name="Лук'янівська"></metro>
+		<metro name="Майдан Незалежності"></metro>
+		<metro name="Мінська"></metro>
+		<metro name="Нивки"></metro>
+		<metro name="Оболонь"></metro>
+		<metro name="Олімпійська"></metro>
+		<metro name="Осокорки"></metro>
+		<metro name="Палац «Україна»"></metro>
+		<metro name="Палац спорту"></metro>
+		<metro name="Печерська"></metro>
+		<metro name="Площа Жовтневої Революції"></metro>
+		<metro name="Площа Льва Толстого"></metro>
+		<metro name="Позняки"></metro>
+		<metro name="Політехнічний інститут"></metro>
+		<metro name="Почайна"></metro>
+		<metro name="Поштова площа"></metro>
+		<metro name="Святошин"></metro>
+		<metro name="Сирець"></metro>
+		<metro name="Славутич"></metro>
+		<metro name="Тараса Шевченка"></metro>
+		<metro name="Театральна"></metro>
+		<metro name="Теремки"></metro>
+		<metro name="Університет"></metro>
+		<metro name="Харківська"></metro>
+		<metro name="Хрещатик"></metro>
+		<metro name="Червоний хутір"></metro>
+		<metro name="Чернігівська"></metro>
+		<metro name="Шулявська"></metro>	
+	</city>
 
-    <province name="Вінницька">
-        <district name="Вінницький">
-            <hromada name="Агрономічна" type="сільська"></hromada>
-            <hromada name="Вінницька" type="міська">
-                <city name="Вінниця"></city>
-            </hromada>
-            <hromada name="Вороновицька" type="селищна"></hromada>
-            <hromada name="Гніванська" type="міська">
-                <city name="Гнівань"></city>
-            </hromada>
-            <hromada name="Іллінецька" type="міська">
-                <city name="Іллінці"></city>
-            </hromada>
-            <hromada name="Липовецька" type="міська">
-                <city name="Липовець"></city>
-            </hromada>
-            <hromada name="Літинська" type="селищна"></hromada>
-            <hromada name="Лука-Мелешківська" type="сільська"></hromada>
-            <hromada name="Немирівська" type="міська">
-                <city name="Немирів"></city>
-            </hromada>
-            <hromada name="Оратівська" type="селищна"></hromada>
-            <hromada name="Погребищенська" type="міська">
-                <city name="Погребище"></city>
-            </hromada>
-            <hromada name="Стрижавська" type="селищна"></hromada>
-            <hromada name="Сутисківська" type="селищна"></hromada>
-            <hromada name="Тиврівська" type="селищна"></hromada>
-            <hromada name="Турбівська" type="селищна"></hromada>
-            <hromada name="Якушинецька" type="сільська"></hromada>
-        </district>
-        <district name="Гайсинський">
-            <hromada name="Бершадська" type="міська">
-                <city name="Бершадь"></city>
-            </hromada>
-            <hromada name="Гайсинська" type="міська">
-                <city name="Гайсин"></city>
-            </hromada>
-            <hromada name="Дашівська" type="селищна"></hromada>
-            <hromada name="Джулинська" type="сільська"></hromada>
-            <hromada name="Краснопільська" type="сільська"></hromada>
-            <hromada name="Кунківська" type="сільська"></hromada>
-            <hromada name="Ладижинська" type="міська">
-                <city name="Ладижин"></city>
-            </hromada>
-            <hromada name="Ободівська" type="сільська"></hromada>
-            <hromada name="Ольгопільська" type="сільська"></hromada>
-            <hromada name="Райгородська" type="сільська"></hromada>
-            <hromada name="Соболівська" type="сільська"></hromada>
-            <hromada name="Теплицька" type="селищна"></hromada>
-            <hromada name="Тростянецька" type="селищна"></hromada>
-            <hromada name="Чечельницька" type="селищна"></hromada>
-        </district>
-        <district name="Жмеринський">
-            <hromada name="Барська" type="міська">
-                <city name="Бар"></city>
-            </hromada>
-            <hromada name="Джуринська" type="сільська"></hromada>
-            <hromada name="Жмеринська" type="міська">
-                <city name="Жмеринка"></city>
-            </hromada>
-            <hromada name="Копайгородська" type="селищна"></hromada>
-            <hromada name="Мурафська" type="сільська"></hromada>
-            <hromada name="Северинівська" type="сільська"></hromada>
-            <hromada name="Станіславчицька" type="сільська"></hromada>
-            <hromada name="Шаргородська" type="міська">
-                <city name="Шаргород"></city>
-            </hromada>
-        </district>
-        <district name="Могилів-Подільський">
-            <hromada name="Бабчинецька" type="сільська"></hromada>
-            <hromada name="Вендичанська" type="селищна"></hromada>
-            <hromada name="Могилів-Подільська" type="міська">
-                <city name="Могилів-Подільський"></city>
-            </hromada>
-            <hromada name="Мурафська" type="сільська"></hromada>
-            <hromada name="Мурованокуриловецька" type="селищна"></hromada>
-            <hromada name="Чернівецька" type="селищна"></hromada>
-            <hromada name="Ямпільська" type="міська">
-                <city name="Ямпіль"></city>
-            </hromada>
-            <hromada name="Яришівська" type="сільська"></hromada>
-        </district>
-        <district name="Тульчинський">
-            <hromada name="Брацлавська" type="селищна"></hromada>
-            <hromada name="Вапнярська" type="селищна"></hromada>
-            <hromada name="Городківська" type="сільська"></hromada>
-            <hromada name="Крижопільська" type="селищна"></hromada>
-            <hromada name="Піщанська" type="селищна"></hromada>
-            <hromada name="Студенянська" type="сільська"></hromada>
-            <hromada name="Томашпільська" type="селищна"></hromada>
-            <hromada name="Тульчинська" type="міська">
-                <city name="Тульчин"></city>
-            </hromada>
-            <hromada name="Шпиківська" type="селищна"></hromada>
-        </district>
-        <district name="Хмільницький">
-            <hromada name="Глуховецька" type="селищна"></hromada>
-            <hromada name="Війтівецька" type="сільська"></hromada>
-            <hromada name="Іванівська" type="сільська"></hromada>
-            <hromada name="Калинівська" type="міська">
-                <city name="Калинівка"></city>
-            </hromada>
-            <hromada name="Козятинська" type="міська">
-                <city name="Козятин"></city>
-            </hromada>
-            <hromada name="Махнівська" type="сільська"></hromada>
-            <hromada name="Самгородоцька" type="сільська"></hromada>
-            <hromada name="Уланівська" type="сільська"></hromada>
-            <hromada name="Хмільницька" type="міська">
-                <city name="Хмільник"></city>
-            </hromada>
-        </district>
-    </province>
+	<province name="Вінницька">
+		<district name="Вінницький">
+			<hromada name="Агрономічна" type="сільська"></hromada>
+			<hromada name="Вінницька" type="міська">
+				<city name="Вінниця"></city>
+			</hromada>
+			<hromada name="Вороновицька" type="селищна"></hromada>
+			<hromada name="Гніванська" type="міська">
+				<city name="Гнівань"></city>
+			</hromada>
+			<hromada name="Іллінецька" type="міська">
+				<city name="Іллінці"></city>
+			</hromada>
+			<hromada name="Липовецька" type="міська">
+				<city name="Липовець"></city>
+			</hromada>
+			<hromada name="Літинська" type="селищна"></hromada>
+			<hromada name="Лука-Мелешківська" type="сільська"></hromada>
+			<hromada name="Немирівська" type="міська">
+				<city name="Немирів"></city>
+			</hromada>
+			<hromada name="Оратівська" type="селищна"></hromada>
+			<hromada name="Погребищенська" type="міська">
+				<city name="Погребище"></city>
+			</hromada>
+			<hromada name="Стрижавська" type="селищна"></hromada>
+			<hromada name="Сутисківська" type="селищна"></hromada>
+			<hromada name="Тиврівська" type="селищна"></hromada>
+			<hromada name="Турбівська" type="селищна"></hromada>
+			<hromada name="Якушинецька" type="сільська"></hromada>
+		</district>
+		<district name="Гайсинський">
+			<hromada name="Бершадська" type="міська">
+				<city name="Бершадь"></city>
+			</hromada>
+			<hromada name="Гайсинська" type="міська">
+				<city name="Гайсин"></city>
+			</hromada>
+			<hromada name="Дашівська" type="селищна"></hromada>
+			<hromada name="Джулинська" type="сільська"></hromada>
+			<hromada name="Краснопільська" type="сільська"></hromada>
+			<hromada name="Кунківська" type="сільська"></hromada>
+			<hromada name="Ладижинська" type="міська">
+				<city name="Ладижин"></city>
+			</hromada>
+			<hromada name="Ободівська" type="сільська"></hromada>
+			<hromada name="Ольгопільська" type="сільська"></hromada>
+			<hromada name="Райгородська" type="сільська"></hromada>
+			<hromada name="Соболівська" type="сільська"></hromada>
+			<hromada name="Теплицька" type="селищна"></hromada>
+			<hromada name="Тростянецька" type="селищна"></hromada>
+			<hromada name="Чечельницька" type="селищна"></hromada>
+		</district>
+		<district name="Жмеринський">
+			<hromada name="Барська" type="міська">
+				<city name="Бар"></city>
+			</hromada>
+			<hromada name="Джуринська" type="сільська"></hromada>
+			<hromada name="Жмеринська" type="міська">
+				<city name="Жмеринка"></city>
+			</hromada>
+			<hromada name="Копайгородська" type="селищна"></hromada>
+			<hromada name="Мурафська" type="сільська"></hromada>
+			<hromada name="Северинівська" type="сільська"></hromada>
+			<hromada name="Станіславчицька" type="сільська"></hromada>
+			<hromada name="Шаргородська" type="міська">
+				<city name="Шаргород"></city>
+			</hromada>
+		</district>
+		<district name="Могилів-Подільський">
+			<hromada name="Бабчинецька" type="сільська"></hromada>
+			<hromada name="Вендичанська" type="селищна"></hromada>
+			<hromada name="Могилів-Подільська" type="міська">
+				<city name="Могилів-Подільський"></city>
+			</hromada>
+			<hromada name="Мурафська" type="сільська"></hromada>
+			<hromada name="Мурованокуриловецька" type="селищна"></hromada>
+			<hromada name="Чернівецька" type="селищна"></hromada>
+			<hromada name="Ямпільська" type="міська">
+				<city name="Ямпіль"></city>
+			</hromada>
+			<hromada name="Яришівська" type="сільська"></hromada>
+		</district>
+		<district name="Тульчинський">
+			<hromada name="Брацлавська" type="селищна"></hromada>
+			<hromada name="Вапнярська" type="селищна"></hromada>
+			<hromada name="Городківська" type="сільська"></hromada>
+			<hromada name="Крижопільська" type="селищна"></hromada>
+			<hromada name="Піщанська" type="селищна"></hromada>
+			<hromada name="Студенянська" type="сільська"></hromada>
+			<hromada name="Томашпільська" type="селищна"></hromada>
+			<hromada name="Тульчинська" type="міська">
+				<city name="Тульчин"></city>
+			</hromada>
+			<hromada name="Шпиківська" type="селищна"></hromada>
+		</district>
+		<district name="Хмільницький">
+			<hromada name="Глуховецька" type="селищна"></hromada>
+			<hromada name="Війтівецька" type="сільська"></hromada>
+			<hromada name="Іванівська" type="сільська"></hromada>
+			<hromada name="Калинівська" type="міська">
+				<city name="Калинівка"></city>
+			</hromada>
+			<hromada name="Козятинська" type="міська">
+				<city name="Козятин"></city>
+			</hromada>
+			<hromada name="Махнівська" type="сільська"></hromada>
+			<hromada name="Самгородоцька" type="сільська"></hromada>
+			<hromada name="Уланівська" type="сільська"></hromada>
+			<hromada name="Хмільницька" type="міська">
+				<city name="Хмільник"></city>
+			</hromada>
+		</district>
+	</province>
 
-    <province name="Волинська">
-        <district name="Володимир-Волинський">
-            <hromada name="Володимир-Волинська" type="міська">
-                <city name="Володимир"></city>
-            </hromada>
-            <hromada name="Затурцівська" type="сільська"></hromada>
-            <hromada name="Зимнівська" type="сільська"></hromada>
-            <hromada name="Іваничівська" type="селищна"></hromada>
-            <hromada name="Литовезька" type="сільська"></hromada>
-            <hromada name="Локачинська" type="селищна"></hromada>
-            <hromada name="Нововолинська" type="міська">
-                <city name="Нововолинськ"></city>
-            </hromada>
-            <hromada name="Оваднівська" type="сільська"></hromada>
-            <hromada name="Павлівська" type="сільська"></hromada>
-            <hromada name="Поромівська" type="сільська"></hromada>
-            <hromada name="Устилузька" type="міська">
-                <city name="Устилуг"></city>
-            </hromada>
-        </district>
-        <district name="Камінь-Каширський">            
-            <hromada name="Камінь-Каширська" type="міська">
-                <city name="Камінь-Каширський"></city>
-            </hromada>
-            <hromada name="Любешівська" type="селищна"></hromada>
-            <hromada name="Маневицька" type="селищна"></hromada>
-            <hromada name="Прилісненська" type="сільська"></hromada>
-            <hromada name="Сошичненська" type="сільська"></hromada>
-        </district>
-        <district name="Ковельський">
-            <hromada name="Велимченська" type="сільська"></hromada>
-            <hromada name="Велицька" type="сільська"></hromada>
-            <hromada name="Вишнівська" type="сільська"></hromada>
-            <hromada name="Голобська" type="селищна"></hromada>
-            <hromada name="Головненська" type="селищна"></hromada>
-            <hromada name="Дубечненська" type="сільська"></hromada>
-            <hromada name="Дубівська" type="сільська"></hromada>
-            <hromada name="Заболоттівська" type="селищна"></hromada>
-            <hromada name="Забродівська" type="сільська"></hromada>
-            <hromada name="Ковельська" type="міська">
-                <city name="Ковель"></city>
-            </hromada>
-            <hromada name="Колодяжненська" type="сільська"></hromada>
-            <hromada name="Луківська" type="селищна"></hromada>
-            <hromada name="Люблинецька" type="селищна"></hromada>
-            <hromada name="Любомльська" type="міська">
-                <city name="Любомль"></city>
-            </hromada>
-            <hromada name="Поворська" type="сільська"></hromada>
-            <hromada name="Ратнівська" type="селищна"></hromada>
-            <hromada name="Рівненська" type="сільська"></hromada>
-            <hromada name="Самарівська" type="сільська"></hromada>
-            <hromada name="Сереховичівська" type="сільська"></hromada>
-            <hromada name="Смідинська" type="сільська"></hromada>
-            <hromada name="Старовижівська" type="селищна"></hromada>
-            <hromada name="Турійська" type="селищна"></hromada>
-            <hromada name="Шацька" type="селищна"></hromada>
-        </district>
-        <district name="Луцький">
-            <hromada name="Берестечківська" type="міська">
-                <city name="Берестечко"></city>
-            </hromada>
-            <hromada name="Боратинська" type="сільська"></hromada>
-            <hromada name="Городищенська" type="сільська"></hromada>
-            <hromada name="Горохівська" type="міська">
-                <city name="Горохів"></city>
-            </hromada>
-            <hromada name="Доросинівська" type="сільська"></hromada>
-            <hromada name="Ківерцівська" type="міська">
-                <city name="Ківерці"></city>
-            </hromada>
-            <hromada name="Колківська" type="селищна"></hromada>
-            <hromada name="Копачівська" type="сільська"></hromada>
-            <hromada name="Луцька" type="міська">
-                <city name="Луцьк"></city>
-            </hromada>
-            <hromada name="Мар'янівська" type="селищна"></hromada>
-            <hromada name="Олицька" type="селищна"></hromada>
-            <hromada name="Підгайцівська" type="сільська"></hromada>
-            <hromada name="Рожищенська" type="міська">
-                <city name="Рожище"></city>
-            </hromada>
-            <hromada name="Торчинська" type="селищна"></hromada>
-            <hromada name="Цуманська" type="селищна"></hromada>
-        </district>
-    </province>
+	<province name="Волинська">
+		<district name="Володимир-Волинський">
+			<hromada name="Володимир-Волинська" type="міська">
+				<city name="Володимир"></city>
+			</hromada>
+			<hromada name="Затурцівська" type="сільська"></hromada>
+			<hromada name="Зимнівська" type="сільська"></hromada>
+			<hromada name="Іваничівська" type="селищна"></hromada>
+			<hromada name="Литовезька" type="сільська"></hromada>
+			<hromada name="Локачинська" type="селищна"></hromada>
+			<hromada name="Нововолинська" type="міська">
+				<city name="Нововолинськ"></city>
+			</hromada>
+			<hromada name="Оваднівська" type="сільська"></hromada>
+			<hromada name="Павлівська" type="сільська"></hromada>
+			<hromada name="Поромівська" type="сільська"></hromada>
+			<hromada name="Устилузька" type="міська">
+				<city name="Устилуг"></city>
+			</hromada>
+		</district>
+		<district name="Камінь-Каширський">            
+			<hromada name="Камінь-Каширська" type="міська">
+				<city name="Камінь-Каширський"></city>
+			</hromada>
+			<hromada name="Любешівська" type="селищна"></hromada>
+			<hromada name="Маневицька" type="селищна"></hromada>
+			<hromada name="Прилісненська" type="сільська"></hromada>
+			<hromada name="Сошичненська" type="сільська"></hromada>
+		</district>
+		<district name="Ковельський">
+			<hromada name="Велимченська" type="сільська"></hromada>
+			<hromada name="Велицька" type="сільська"></hromada>
+			<hromada name="Вишнівська" type="сільська"></hromada>
+			<hromada name="Голобська" type="селищна"></hromada>
+			<hromada name="Головненська" type="селищна"></hromada>
+			<hromada name="Дубечненська" type="сільська"></hromada>
+			<hromada name="Дубівська" type="сільська"></hromada>
+			<hromada name="Заболоттівська" type="селищна"></hromada>
+			<hromada name="Забродівська" type="сільська"></hromada>
+			<hromada name="Ковельська" type="міська">
+				<city name="Ковель"></city>
+			</hromada>
+			<hromada name="Колодяжненська" type="сільська"></hromada>
+			<hromada name="Луківська" type="селищна"></hromada>
+			<hromada name="Люблинецька" type="селищна"></hromada>
+			<hromada name="Любомльська" type="міська">
+				<city name="Любомль"></city>
+			</hromada>
+			<hromada name="Поворська" type="сільська"></hromada>
+			<hromada name="Ратнівська" type="селищна"></hromada>
+			<hromada name="Рівненська" type="сільська"></hromada>
+			<hromada name="Самарівська" type="сільська"></hromada>
+			<hromada name="Сереховичівська" type="сільська"></hromada>
+			<hromada name="Смідинська" type="сільська"></hromada>
+			<hromada name="Старовижівська" type="селищна"></hromada>
+			<hromada name="Турійська" type="селищна"></hromada>
+			<hromada name="Шацька" type="селищна"></hromada>
+		</district>
+		<district name="Луцький">
+			<hromada name="Берестечківська" type="міська">
+				<city name="Берестечко"></city>
+			</hromada>
+			<hromada name="Боратинська" type="сільська"></hromada>
+			<hromada name="Городищенська" type="сільська"></hromada>
+			<hromada name="Горохівська" type="міська">
+				<city name="Горохів"></city>
+			</hromada>
+			<hromada name="Доросинівська" type="сільська"></hromada>
+			<hromada name="Ківерцівська" type="міська">
+				<city name="Ківерці"></city>
+			</hromada>
+			<hromada name="Колківська" type="селищна"></hromada>
+			<hromada name="Копачівська" type="сільська"></hromada>
+			<hromada name="Луцька" type="міська">
+				<city name="Луцьк"></city>
+			</hromada>
+			<hromada name="Мар'янівська" type="селищна"></hromada>
+			<hromada name="Олицька" type="селищна"></hromada>
+			<hromada name="Підгайцівська" type="сільська"></hromada>
+			<hromada name="Рожищенська" type="міська">
+				<city name="Рожище"></city>
+			</hromada>
+			<hromada name="Торчинська" type="селищна"></hromada>
+			<hromada name="Цуманська" type="селищна"></hromada>
+		</district>
+	</province>
     
-    <province name="Дніпропетровська">
-        <district name="Дніпровський">
-            <hromada name="Дніпровська" type="міська">
-                <city name="Дніпро">
-                    <citydistrict name="Новокодацький"></citydistrict>
-                    <citydistrict name="Центральний"></citydistrict>
-                    <citydistrict name="Чечелівський"></citydistrict>
-                    <citydistrict name="Соборний"></citydistrict>
-                    <citydistrict name="Шевченківський"></citydistrict>
-                    <citydistrict name="Амур-Нижньодніпровський"></citydistrict>
-                    <citydistrict name="Індустріальний"></citydistrict>
-                    <citydistrict name="Самарський"></citydistrict>
-                </city>
-            </hromada>
-            <hromada name="Китайгородська" type="сільська"></hromada>
-            <hromada name="Любимівська" type="сільська"></hromada>
-            <hromada name="Ляшківська" type="сільська"></hromada>
-            <hromada name="Миколаївська" type="сільська"></hromada>
-            <hromada name="Могилівська" type="сільська"></hromada>
-            <hromada name="Новоолександрівська" type="сільська"></hromada>
-            <hromada name="Новопокровська" type="селищна"></hromada>
-            <hromada name="Обухівська" type="селищна"></hromada>
-            <hromada name="Петриківська" type="селищна"></hromada>
-            <hromada name="Підгородненська" type="міська">
-                <city name="Підгородне"></city>
-            </hromada>
-            <hromada name="Святовасилівська" type="сільська"></hromada>
-            <hromada name="Слобожанська" type="селищна"></hromada>
-            <hromada name="Солонянська" type="селищна"></hromada>
-            <hromada name="Сурсько-Литовська" type="сільська"></hromada>
-            <hromada name="Царичанська" type="селищна"></hromada>
-            <hromada name="Чумаківська" type="сільська"></hromada>
-        </district>
-        <district name="Кам'янський">
-            <hromada name="Божедарівська" type="селищна"></hromada>
-            <hromada name="Верхівцівська" type="міська">
-                <city name="Верхівцеве"></city>
-            </hromada>
-            <hromada name="Верхньодніпровська" type="міська">
-                <city name="Верхньодніпровськ"></city>
-            </hromada>
-            <hromada name="Вишнівська" type="селищна"></hromada>
-            <hromada name="Вільногірська" type="міська">
-                <city name="Вільногірськ"></city>
-            </hromada>
-            <hromada name="Жовтоводська" type="міська">
-                <city name="Жовті Води"></city>
-            </hromada>
-            <hromada name="Затишнянська" type="сільська"></hromada>
-            <hromada name="Кам'янська" type="міська">
-                <city name="Кам'янське"></city>
-            </hromada>
-            <hromada name="Криничанська" type="селищна"></hromada>
-            <hromada name="Лихівська" type="селищна"></hromada>
-            <hromada name="П'ятихатська" type="міська">
-                <city name="П'ятихатки"></city>
-            </hromada>
-            <hromada name="Саксаганська" type="сільська"></hromada>
-        </district>
-        <district name="Криворізький">
-            <hromada name="Апостолівська" type="міська">
-                <city name="Апостолове"></city>
-            </hromada>
-            <hromada name="Вакулівська" type="сільська"></hromada>
-            <hromada name="Глеюватська" type="сільська"></hromada>
-            <hromada name="Гречаноподівська" type="сільська"></hromada>
-            <hromada name="Грушіська" type="сільська"></hromada>
-            <hromada name="Девладівська" type="селищна"></hromada>
-            <hromada name="Зеленодольська" type="міська">
-                <city name="Зеленодольськ"></city>
-            </hromada>
-            <hromada name="Карпівська" type="сільська"></hromada>
-            <hromada name="Криворізька" type="міська">
-                <city name="Кривий Ріг">
-                    <citydistrict name="Довгинцівський"></citydistrict>
-                    <citydistrict name="Інгулецький"></citydistrict>
-                    <citydistrict name="Металургійний"></citydistrict>
-                    <citydistrict name="Покровський"></citydistrict>
-                    <citydistrict name="Саксаганський"></citydistrict>
-                    <citydistrict name="Тернівський"></citydistrict>
-                    <citydistrict name="Центрально-Міський"></citydistrict>
-                </city>
-            </hromada>
-            <hromada name="Лозуватська" type="сільська"></hromada>
-            <hromada name="Нивотрудівська" type="сільська"></hromada>
-            <hromada name="Новолатівська" type="сільська"></hromada>
-            <hromada name="Новопільська" type="сільська"></hromada>
-            <hromada name="Софіївська" type="селищна"></hromada>
-            <hromada name="Широківська" type="селищна"></hromada>
-        </district>
-        <district name="Нікопольський">
-            <hromada name="Марганецька" type="міська">
-                <city name="Марганець"></city>
-            </hromada>
-            <hromada name="Мирівська" type="селищна"></hromada>
-            <hromada name="Нікопольська" type="міська">
-                <city name="Нікополь"></city>
-            </hromada>
-            <hromada name="Першотравневська" type="сільська"></hromada>
-            <hromada name="Покровська" type="міська">
-                <city name="Покров"></city>
-            </hromada>
-            <hromada name="Покровська" type="сільська"></hromada>
-            <hromada name="Томаківська" type="селищна"></hromada>
-            <hromada name="Червоногригорівська" type="селищна"></hromada>
-        </district>
-        <district name="Новомосковський">
-            <hromada name="Губиниська" type="селищна"></hromada>
-            <hromada name="Личківська" type="сільська"></hromada>
-            <hromada name="Магдалинівська" type="селищна"></hromada>
-            <hromada name="Новомосковська" type="міська">
-                <city name="Новомосковськ"></city>
-            </hromada>
-            <hromada name="Перещепинська" type="міська">
-                <city name="Перещепине"></city>
-            </hromada>
-            <hromada name="Піщанська" type="сільська"></hromada>
-            <hromada name="Черкаська" type="селищна"></hromada>
-            <hromada name="Чернеччинська" type="сільська"></hromada>
-        </district>
-        <district name="Синельниківський">
-            <hromada name="Брагинівська" type="сільська"></hromada>
-            <hromada name="Васильківська" type="селищна"></hromada>
-            <hromada name="Великомихайлівська" type="сільська"></hromada>
-            <hromada name="Дубовиківська" type="сільська"></hromada>
-            <hromada name="Зайцівська" type="сільська"></hromada>
-            <hromada name="Іларіонівська" type="селищна"></hromada>
-            <hromada name="Маломихайлівська" type="сільська"></hromada>
-            <hromada name="Межівська" type="селищна"></hromada>
-            <hromada name="Миколаївська" type="сільська"></hromada>
-            <hromada name="Новопавлівська" type="сільська"></hromada>
-            <hromada name="Першотравенська" type="міська">
-                <city name="Першотравенськ"></city>
-            </hromada>
-            <hromada name="Петропавлівська" type="селищна"></hromada>
-            <hromada name="Покровська" type="селищна"></hromada>
-            <hromada name="Раївська" type="сільська"></hromada>
-            <hromada name="Роздорська" type="селищна"></hromada>
-            <hromada name="Синельниківська" type="міська">
-                <city name="Синельникове"></city>
-            </hromada>
-            <hromada name="Славгородська" type="селищна"></hromada>
-            <hromada name="Слов'янська" type="сільська"></hromada>
-            <hromada name="Українська" type="сільська"></hromada>
-        </district>
-        <district name="Павлоградський">
-            <hromada name="Богданівська" type="ссільська"></hromada>
-            <hromada name="Вербківська" type="ссільська"></hromada>
-            <hromada name="Межиріцька" type="ссільська"></hromada>
-            <hromada name="Павлоградська" type="сміська">
-                <city name="Павлоград"></city>
-            </hromada>
-            <hromada name="Тернівська" type="сміська">
-                <city name="Тернівка"></city>
-            </hromada>
-            <hromada name="Троїцька" type="ссільська"></hromada>
-            <hromada name="Юр'ївська" type="сселищна"></hromada>
-        </district>
-    </province>
+	<province name="Дніпропетровська">
+		<district name="Дніпровський">
+			<hromada name="Дніпровська" type="міська">
+				<city name="Дніпро">
+					<citydistrict name="Новокодацький"></citydistrict>
+					<citydistrict name="Центральний"></citydistrict>
+					<citydistrict name="Чечелівський"></citydistrict>
+					<citydistrict name="Соборний"></citydistrict>
+					<citydistrict name="Шевченківський"></citydistrict>
+					<citydistrict name="Амур-Нижньодніпровський"></citydistrict>
+					<citydistrict name="Індустріальний"></citydistrict>
+					<citydistrict name="Самарський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Китайгородська" type="сільська"></hromada>
+			<hromada name="Любимівська" type="сільська"></hromada>
+			<hromada name="Ляшківська" type="сільська"></hromada>
+			<hromada name="Миколаївська" type="сільська"></hromada>
+			<hromada name="Могилівська" type="сільська"></hromada>
+			<hromada name="Новоолександрівська" type="сільська"></hromada>
+			<hromada name="Новопокровська" type="селищна"></hromada>
+			<hromada name="Обухівська" type="селищна"></hromada>
+			<hromada name="Петриківська" type="селищна"></hromada>
+			<hromada name="Підгородненська" type="міська">
+				<city name="Підгородне"></city>
+			</hromada>
+			<hromada name="Святовасилівська" type="сільська"></hromada>
+			<hromada name="Слобожанська" type="селищна"></hromada>
+			<hromada name="Солонянська" type="селищна"></hromada>
+			<hromada name="Сурсько-Литовська" type="сільська"></hromada>
+			<hromada name="Царичанська" type="селищна"></hromada>
+			<hromada name="Чумаківська" type="сільська"></hromada>
+		</district>
+		<district name="Кам'янський">
+			<hromada name="Божедарівська" type="селищна"></hromada>
+			<hromada name="Верхівцівська" type="міська">
+				<city name="Верхівцеве"></city>
+			</hromada>
+			<hromada name="Верхньодніпровська" type="міська">
+				<city name="Верхньодніпровськ"></city>
+			</hromada>
+			<hromada name="Вишнівська" type="селищна"></hromada>
+			<hromada name="Вільногірська" type="міська">
+				<city name="Вільногірськ"></city>
+			</hromada>
+			<hromada name="Жовтоводська" type="міська">
+				<city name="Жовті Води"></city>
+			</hromada>
+			<hromada name="Затишнянська" type="сільська"></hromada>
+			<hromada name="Кам'янська" type="міська">
+				<city name="Кам'янське">
+					<citydistrict name="Південний"></citydistrict>
+					<citydistrict name="Дніпровський"></citydistrict>
+					<citydistrict name="Заводський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Криничанська" type="селищна"></hromada>
+			<hromada name="Лихівська" type="селищна"></hromada>
+			<hromada name="П'ятихатська" type="міська">
+				<city name="П'ятихатки"></city>
+			</hromada>
+			<hromada name="Саксаганська" type="сільська"></hromada>
+		</district>
+		<district name="Криворізький">
+			<hromada name="Апостолівська" type="міська">
+				<city name="Апостолове"></city>
+			</hromada>
+			<hromada name="Вакулівська" type="сільська"></hromada>
+			<hromada name="Глеюватська" type="сільська"></hromada>
+			<hromada name="Гречаноподівська" type="сільська"></hromada>
+			<hromada name="Грушіська" type="сільська"></hromada>
+			<hromada name="Девладівська" type="селищна"></hromada>
+			<hromada name="Зеленодольська" type="міська">
+				<city name="Зеленодольськ"></city>
+			</hromada>
+			<hromada name="Карпівська" type="сільська"></hromada>
+			<hromada name="Криворізька" type="міська">
+				<city name="Кривий Ріг">
+					<citydistrict name="Довгинцівський"></citydistrict>
+					<citydistrict name="Інгулецький"></citydistrict>
+					<citydistrict name="Металургійний"></citydistrict>
+					<citydistrict name="Покровський"></citydistrict>
+					<citydistrict name="Саксаганський"></citydistrict>
+					<citydistrict name="Тернівський"></citydistrict>
+					<citydistrict name="Центрально-Міський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Лозуватська" type="сільська"></hromada>
+			<hromada name="Нивотрудівська" type="сільська"></hromada>
+			<hromada name="Новолатівська" type="сільська"></hromada>
+			<hromada name="Новопільська" type="сільська"></hromada>
+			<hromada name="Софіївська" type="селищна"></hromada>
+			<hromada name="Широківська" type="селищна"></hromada>
+		</district>
+		<district name="Нікопольський">
+			<hromada name="Марганецька" type="міська">
+				<city name="Марганець"></city>
+			</hromada>
+			<hromada name="Мирівська" type="селищна"></hromada>
+			<hromada name="Нікопольська" type="міська">
+				<city name="Нікополь"></city>
+			</hromada>
+			<hromada name="Першотравневська" type="сільська"></hromada>
+			<hromada name="Покровська" type="міська">
+				<city name="Покров"></city>
+			</hromada>
+			<hromada name="Покровська" type="сільська"></hromada>
+			<hromada name="Томаківська" type="селищна"></hromada>
+			<hromada name="Червоногригорівська" type="селищна"></hromada>
+		</district>
+		<district name="Новомосковський">
+			<hromada name="Губиниська" type="селищна"></hromada>
+			<hromada name="Личківська" type="сільська"></hromada>
+			<hromada name="Магдалинівська" type="селищна"></hromada>
+			<hromada name="Новомосковська" type="міська">
+				<city name="Новомосковськ"></city>
+			</hromada>
+			<hromada name="Перещепинська" type="міська">
+				<city name="Перещепине"></city>
+			</hromada>
+			<hromada name="Піщанська" type="сільська"></hromada>
+			<hromada name="Черкаська" type="селищна"></hromada>
+			<hromada name="Чернеччинська" type="сільська"></hromada>
+		</district>
+		<district name="Синельниківський">
+			<hromada name="Брагинівська" type="сільська"></hromada>
+			<hromada name="Васильківська" type="селищна"></hromada>
+			<hromada name="Великомихайлівська" type="сільська"></hromada>
+			<hromada name="Дубовиківська" type="сільська"></hromada>
+			<hromada name="Зайцівська" type="сільська"></hromada>
+			<hromada name="Іларіонівська" type="селищна"></hromada>
+			<hromada name="Маломихайлівська" type="сільська"></hromada>
+			<hromada name="Межівська" type="селищна"></hromada>
+			<hromada name="Миколаївська" type="сільська"></hromada>
+			<hromada name="Новопавлівська" type="сільська"></hromada>
+			<hromada name="Першотравенська" type="міська">
+				<city name="Першотравенськ"></city>
+			</hromada>
+			<hromada name="Петропавлівська" type="селищна"></hromada>
+			<hromada name="Покровська" type="селищна"></hromada>
+			<hromada name="Раївська" type="сільська"></hromada>
+			<hromada name="Роздорська" type="селищна"></hromada>
+			<hromada name="Синельниківська" type="міська">
+				<city name="Синельникове"></city>
+			</hromada>
+			<hromada name="Славгородська" type="селищна"></hromada>
+			<hromada name="Слов'янська" type="сільська"></hromada>
+			<hromada name="Українська" type="сільська"></hromada>
+		</district>
+		<district name="Павлоградський">
+			<hromada name="Богданівська" type="ссільська"></hromada>
+			<hromada name="Вербківська" type="ссільська"></hromada>
+			<hromada name="Межиріцька" type="ссільська"></hromada>
+			<hromada name="Павлоградська" type="сміська">
+				<city name="Павлоград"></city>
+			</hromada>
+			<hromada name="Тернівська" type="сміська">
+				<city name="Тернівка"></city>
+			</hromada>
+			<hromada name="Троїцька" type="ссільська"></hromada>
+			<hromada name="Юр'ївська" type="сселищна"></hromada>
+		</district>
+	</province>
     
-    <province name="Донецька">
-        <district name="Бахмутський">
-            <hromada name="Бахмутська" type="міська">
-                <city name="Бахмут"></city>
-            </hromada>
-            <hromada name="Званівська" type="сільська"></hromada>
-            <hromada name="Світлодарська" type="міська">
-                <city name="Світлодарськ"></city>
-            </hromada>
-            <hromada name="Сіверська" type="міська">
-                <city name="Сіверськ"></city>
-            </hromada>
-            <hromada name="Соледарська" type="міська">
-                <city name="Соледар"></city>
-            </hromada>
-            <hromada name="Торецька" type="міська">
-                <city name="Торецьк"></city>
-            </hromada>
-            <hromada name="Часовоярська" type="міська">
-                <city name="Часів Яр"></city>
-            </hromada>
-        </district>
-        <district name="Волноваський">
+	<province name="Донецька">
+		<district name="Бахмутський">
+			<hromada name="Бахмутська" type="міська">
+				<city name="Бахмут"></city>
+			</hromada>
+			<hromada name="Званівська" type="сільська"></hromada>
+			<hromada name="Світлодарська" type="міська">
+				<city name="Світлодарськ"></city>
+			</hromada>
+			<hromada name="Сіверська" type="міська">
+				<city name="Сіверськ"></city>
+			</hromada>
+			<hromada name="Соледарська" type="міська">
+				<city name="Соледар"></city>
+			</hromada>
+			<hromada name="Торецька" type="міська">
+				<city name="Торецьк"></city>
+			</hromada>
+			<hromada name="Часовоярська" type="міська">
+				<city name="Часів Яр"></city>
+			</hromada>
+		</district>
+		<district name="Волноваський">
 
-        </district>
-        <district name="Краматорський">
+		</district>
+		<district name="Краматорський">
 
-        </district>
-        <district name="Маріупольський">
+		</district>
+		<district name="Маріупольський">
+			<city name="Маріуполь">
+				<citydistrict name="Центральний"></citydistrict>
+				<citydistrict name="Кальміуський"></citydistrict>
+				<citydistrict name="Лівобережний"></citydistrict>
+				<citydistrict name="Приморський"></citydistrict>
+			</city>
+		</district>
+		<district name="Покровський">
 
-        </district>
-        <district name="Покровський">
+		</district>
+		<district name="Горлівський">
+			<city name="Горлівка">
+				<citydistrict name="Калінінський"></citydistrict>
+				<citydistrict name="Микитівський"></citydistrict>
+				<citydistrict name="Центрально-Міський"></citydistrict>
+			</city>
+		</district>
+		<district name="Донецький">
+			<hromada name="Амвросіївська" type="міська">
+				<city name="Амвросіївка"></city>
+			</hromada>
+			<hromada name="Донецька" type="міська">
+				<city name="Донецьк">
+					<citydistrict name="Будьонівський"></citydistrict>
+					<citydistrict name="Ворошиловський"></citydistrict>
+					<citydistrict name="Калінінський"></citydistrict>
+					<citydistrict name="Київський"></citydistrict>
+					<citydistrict name="Кіровський"></citydistrict>
+					<citydistrict name="Куйбишевський"></citydistrict>
+					<citydistrict name="Ленінський"></citydistrict>
+					<citydistrict name="Петровський"></citydistrict>
+					<citydistrict name="Пролетарський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Іловайська" type="міська">
+				<city name="Іловайськ"></city>
+			</hromada>
+			<hromada name="Макіївська" type="міська">
+				<city name="Макіївка">                    
+					<citydistrict name="Гірницький"></citydistrict>
+					<citydistrict name="Кіровський"></citydistrict>
+					<citydistrict name="Совєтський"></citydistrict>
+					<citydistrict name="Центрально-Міський"></citydistrict>
+					<citydistrict name="Червоногвардійський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Харцизька" type="міська">
+				<city name="Харцизьк"></city>
+			</hromada>
+			<hromada name="Ясинуватська" type="міська">
+				<city name="Ясинувата"></city>
+			</hromada>
+		</district>
+		<district name="Кальміуський">
 
-        </district>
-        <district name="Горлівський">
-
-        </district>
-        <district name="Донецький">
-            <hromada name="Амвросіївська" type="міська">
-                <city name="Амвросіївка"></city>
-            </hromada>
-            <hromada name="Донецька" type="міська">
-                <city name="Донецьк">
-                    <citydistrict name="Будьонівський"></citydistrict>
-                    <citydistrict name="Ворошиловський"></citydistrict>
-                    <citydistrict name="Калінінський"></citydistrict>
-                    <citydistrict name="Київський"></citydistrict>
-                    <citydistrict name="Кіровський"></citydistrict>
-                    <citydistrict name="Куйбишевський"></citydistrict>
-                    <citydistrict name="Ленінський"></citydistrict>
-                    <citydistrict name="Петровський"></citydistrict>
-                    <citydistrict name="Пролетарський"></citydistrict>
-                </city>
-            </hromada>
-            <hromada name="Іловайська" type="міська">
-                <city name="Іловайськ"></city>
-            </hromada>
-            <hromada name="Макіївська" type="міська">
-                <city name="Макіївка">                    
-                    <citydistrict name="Гірницький"></citydistrict>
-                    <citydistrict name="Кіровський"></citydistrict>
-                    <citydistrict name="Совєтський"></citydistrict>
-                    <citydistrict name="Центрально-Міський"></citydistrict>
-                    <citydistrict name="Червоногвардійський"></citydistrict>
-                </city>
-            </hromada>
-            <hromada name="Харцизька" type="міська">
-                <city name="Харцизьк"></city>
-            </hromada>
-            <hromada name="Ясинуватська" type="міська">
-                <city name="Ясинувата"></city>
-            </hromada>
-        </district>
-        <district name="Кальміуський">
-
-        </district>
-    </province>
+		</district>
+	</province>
     
-    <province name="Житомирська">
-        <district name="Бердичівський">
-            <hromada name="Андрушівська" type="міська">
-                <city name="Андрушівка"></city>
-            </hromada>
-            <hromada name="Бердичівська" type="міська">
-                <city name="Бердичів"></city>
-            </hromada>
-            <hromada name="Вчорайшенська" type="сільська"></hromada>
-            <hromada name="Гришковецька" type="селищна"></hromada>
-            <hromada name="Краснопільська" type="сільська"></hromada>
-            <hromada name="Райгородоцька" type="сільська"></hromada>
-            <hromada name="Ружинська" type="селищна"></hromada>
-            <hromada name="Семенівська" type="сільська"></hromada>
-            <hromada name="Червоненська" type="селищна"></hromada>
-            <hromada name="Швайківська" type="сільська"></hromada>
-        </district>
-        <district name="Житомирський">
-            <hromada name="Андрушківська" type="сільська"></hromada>
-            <hromada name="Березівська" type="сільська"></hromada>
-            <hromada name="Брусилівська" type="селищна"></hromada>
-            <hromada name="Високівська" type="сільська"></hromada>
-            <hromada name="Вишевицька" type="сільська"></hromada>
-            <hromada name="Вільшанська" type="сільська"></hromada>
-            <hromada name="Волицька" type="сільська"></hromada>
-            <hromada name="Глибочицька" type="сільська"></hromada>
-            <hromada name="Городоцька" type="селищна"></hromada>
-            <hromada name="Житомирська" type="міська">
-                <city name="Житомир">
-                    <citydistrict name="Богунський"></citydistrict>
-                    <citydistrict name="Корольовський"></citydistrict>
-                </city>
-            </hromada>
-            <hromada name="Квітнева" type="сільська"></hromada>
-            <hromada name="Корнинська" type="селищна"></hromada>
-            <hromada name="Коростишівська" type="міська">
-                <city name="Коростишів"></city>
-            </hromada>
-            <hromada name="Курненська" type="сільська"></hromada>
-            <hromada name="Любарська" type="селищна"></hromada>
-            <hromada name="Миропільська" type="селищна"></hromada>
-            <hromada name="Новоборівська" type="селищна"></hromada>
-            <hromada name="Новогуйвинська" type="селищна"></hromada>
-            <hromada name="Оліївська" type="сільська"></hromada>
-            <hromada name="Попільнянська" type="селищна"></hromada>
-            <hromada name="Потіївська" type="сільська"></hromada>
-            <hromada name="Пулинська" type="селищна"></hromada>
-            <hromada name="Радомишльська" type="міська">
-                <city name="Радомишль"></city>
-            </hromada>
-            <hromada name="Романівська" type="селищна"></hromada>
-            <hromada name="Станишівська" type="сільська"></hromada>
-            <hromada name="Старосілецька" type="сільська"></hromada>
-            <hromada name="Тетерівська" type="сільська"></hromada>
-            <hromada name="Харитонівська" type="сільська"></hromada>
-            <hromada name="Хорошівська" type="селищна"></hromada>
-            <hromada name="Черняхівська" type="селищна"></hromada>
-            <hromada name="Чуднівська" type="міська">
-                <city name="Чуднів"></city>
-            </hromada>
-        </district>
-        <district name="Коростенський">
-            <hromada name="Білокоровицька" type="сільська"></hromada>
-            <hromada name="Гладковицька" type="сільська"></hromada>
-            <hromada name="Горщиківська" type="сільська"></hromada>
-            <hromada name="Іршанська" type="селищна"></hromada>
-            <hromada name="Коростенська" type="міська">
-                <city name="Коростень"></city>
-            </hromada>
-            <hromada name="Лугинська" type="селищна"></hromada>
-            <hromada name="Малинська" type="міська">
-                <city name="Малин"></city>
-            </hromada>
-            <hromada name="Народицька" type="селищна"></hromada>
-            <hromada name="Овруцька" type="міська">
-                <city name="Овруч"></city>
-            </hromada>
-            <hromada name="Олевська" type="міська">
-                <city name="Олевськ"></city>
-            </hromada>
-            <hromada name="Словечанська" type="сільська"></hromada>
-            <hromada name="Ушомирська" type="сільська"></hromada>
-            <hromada name="Чоповицька" type="селищна"></hromada>
-        </district>
-        <district name="Новоград-Волинський">
-            <hromada name="Баранівська" type="міська">
-                <city name="Баранівка"></city>
-            </hromada>
-            <hromada name="Барашівська" type="сільська"></hromada>
-            <hromada name="Брониківська" type="сільська"></hromada>
-            <hromada name="Городницька" type="селищна"></hromada>
-            <hromada name="Довбиська" type="селищна"></hromada>
-            <hromada name="Дубрівська" type="сільська"></hromada>
-            <hromada name="Ємільчинська" type="селищна"></hromada>
-            <hromada name="Новоград-Волинська" type="міська">
-                <city name="Новоград-Волинський"></city>
-            </hromada>
-            <hromada name="Піщівська" type="сільська"></hromada>
-            <hromada name="Стриївська" type="сільська"></hromada>
-            <hromada name="Чижівська" type="сільська"></hromada>
-            <hromada name="Ярунська" type="сільська"></hromada>
-        </district>
-    </province>
-    <province name="Закарпатська">
-        <district name="Берегівський">
-            <hromada name="Батівська" type="селищна"></hromada>
-            <hromada name="Берегівська" type="міська">
-                <city name="Берегове"></city>
-            </hromada>
-            <hromada name="Великоберезька" type="сільська"></hromada>
-            <hromada name="Великобийганська" type="сільська"></hromada>
-            <hromada name="Вилоцька" type="селищна"></hromada>
-            <hromada name="Виноградівська" type="міська">
-                <city name="Виноградів"></city>
-            </hromada>
-            <hromada name="Кам'янська" type="сільська"></hromada>
-            <hromada name="Королівська" type="селищна"></hromada>
-            <hromada name="Косоньська" type="сільська"></hromada>
-            <hromada name="Пийтерфолвівська" type="сільська"></hromada>
-        </district>
-        <district name="Мукачівський">
-            <hromada name="Великолучківська" type="сільська"></hromada>
-            <hromada name="Верхньокоропецька" type="сільська"></hromada>
-            <hromada name="Воловецька" type="селищна"></hromada>
-            <hromada name="Горондівська" type="сільська"></hromada>
-            <hromada name="Жденіївська" type="селищна"></hromada>
-            <hromada name="Івановецька" type="сільська"></hromada>
-            <hromada name="Кольчинська" type="селищна"></hromada>
-            <hromada name="Мукачівська" type="міська">
-                <city name="Мукачеве"></city>
-            </hromada>
-            <hromada name="Неліпинська" type="сільська"></hromada>
-            <hromada name="Нижньоворітська" type="сільська"></hromada>
-            <hromada name="Полянська" type="сільська"></hromada>
-            <hromada name="Свалявська" type="міська">
-                <city name="Свалява"></city>
-            </hromada>
-            <hromada name="Чинадіївська" type="селищна"></hromada>
-        </district>
-        <district name="Рахівський">
-            <hromada name="Богданська" type="сільська"></hromada>
-            <hromada name="Великобичківська" type="селищна"></hromada>
-            <hromada name="Рахівська" type="міська">
-                <city name="Рахів"></city>
-            </hromada>
-            <hromada name="Ясінянська" type="селищна"></hromada>
-        </district>
-        <district name="Тячівський">
-            <hromada name="Бедевлянська" type="сільська"></hromada>
-            <hromada name="Буштинська" type="селищна"></hromada>
-            <hromada name="Вільховецька" type="сільська"></hromada>
-            <hromada name="Дубівська" type="селищна"></hromada>
-            <hromada name="Нересницька" type="сільська"></hromada>
-            <hromada name="Солотвинська" type="селищна"></hromada>
-            <hromada name="Тересвянська" type="селищна"></hromada>
-            <hromada name="Тячівська" type="міська">
-                <city name="Тячів"></city>
-            </hromada>
-            <hromada name="Углянська" type="сільська"></hromada>
-            <hromada name="Усть-Чорнянська" type="селищна"></hromada>
-        </district>
-        <district name="Ужгородський">
-            <hromada name="Баранинська" type="сільська"></hromada>
-            <hromada name="Великоберезнянська" type="селищна"></hromada>
-            <hromada name="Великодобронська" type="сільська"></hromada>
-            <hromada name="Дубриницько-Малоберезнянська" type="сільська"></hromada>
-            <hromada name="Костринська" type="сільська"></hromada>
-            <hromada name="Оноківська" type="сільська"></hromada>
-            <hromada name="Перечинська" type="міська">
-                <city name="Перечин"></city>
-            </hromada>
-            <hromada name="Середнянська" type="селищна"></hromada>
-            <hromada name="Ставненська" type="сільська"></hromada>
-            <hromada name="Сюртівська" type="сільська"></hromada>
-            <hromada name="Тур'є-Реметівська" type="сільська"></hromada>
-            <hromada name="Ужгородська" type="міська">
-                <city name="Ужгород"></city>
-            </hromada>
-            <hromada name="Холмківська" type="сільська"></hromada>
-            <hromada name="Чопська" type="міська">
-                <city name="Чоп"></city>
-            </hromada>
-        </district>
-        <district name="Хустський">
-            <hromada name="Білківська" type="сільська"></hromada>
-            <hromada name="Вишківська" type="селищна"></hromada>
-            <hromada name="Горінчівська" type="сільська"></hromada>
-            <hromada name="Довжанська" type="сільська"></hromada>
-            <hromada name="Драгівська" type="сільська"></hromada>
-            <hromada name="Зарічанська" type="сільська"></hromada>
-            <hromada name="Іршавська" type="міська">
-                <city name="Іршава"></city>
-            </hromada>
-            <hromada name="Кам'янська" type="сільська"></hromada>
-            <hromada name="Керецьківська" type="сільська"></hromada>
-            <hromada name="Колочавська" type="сільська"></hromada>
-            <hromada name="Міжгірська" type="селищна"></hromada>
-            <hromada name="Пилипецька" type="сільська"></hromada>
-            <hromada name="Синевирська" type="сільська"></hromada>
-            <hromada name="Хустська" type="міська">
-                <city name="Хуст"></city>
-            </hromada>
-        </district>
-    </province>
-    <province name="Запорізька">
-        <district name="Бердянський">
+	<province name="Житомирська">
+		<district name="Бердичівський">
+			<hromada name="Андрушівська" type="міська">
+				<city name="Андрушівка"></city>
+			</hromada>
+			<hromada name="Бердичівська" type="міська">
+				<city name="Бердичів"></city>
+			</hromada>
+			<hromada name="Вчорайшенська" type="сільська"></hromada>
+			<hromada name="Гришковецька" type="селищна"></hromada>
+			<hromada name="Краснопільська" type="сільська"></hromada>
+			<hromada name="Райгородоцька" type="сільська"></hromada>
+			<hromada name="Ружинська" type="селищна"></hromada>
+			<hromada name="Семенівська" type="сільська"></hromada>
+			<hromada name="Червоненська" type="селищна"></hromada>
+			<hromada name="Швайківська" type="сільська"></hromada>
+		</district>
+		<district name="Житомирський">
+			<hromada name="Андрушківська" type="сільська"></hromada>
+			<hromada name="Березівська" type="сільська"></hromada>
+			<hromada name="Брусилівська" type="селищна"></hromada>
+			<hromada name="Високівська" type="сільська"></hromada>
+			<hromada name="Вишевицька" type="сільська"></hromada>
+			<hromada name="Вільшанська" type="сільська"></hromada>
+			<hromada name="Волицька" type="сільська"></hromada>
+			<hromada name="Глибочицька" type="сільська"></hromada>
+			<hromada name="Городоцька" type="селищна"></hromada>
+			<hromada name="Житомирська" type="міська">
+				<city name="Житомир">
+					<citydistrict name="Богунський"></citydistrict>
+					<citydistrict name="Корольовський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Квітнева" type="сільська"></hromada>
+			<hromada name="Корнинська" type="селищна"></hromada>
+			<hromada name="Коростишівська" type="міська">
+				<city name="Коростишів"></city>
+			</hromada>
+			<hromada name="Курненська" type="сільська"></hromada>
+			<hromada name="Любарська" type="селищна"></hromada>
+			<hromada name="Миропільська" type="селищна"></hromada>
+			<hromada name="Новоборівська" type="селищна"></hromada>
+			<hromada name="Новогуйвинська" type="селищна"></hromada>
+			<hromada name="Оліївська" type="сільська"></hromada>
+			<hromada name="Попільнянська" type="селищна"></hromada>
+			<hromada name="Потіївська" type="сільська"></hromada>
+			<hromada name="Пулинська" type="селищна"></hromada>
+			<hromada name="Радомишльська" type="міська">
+				<city name="Радомишль"></city>
+			</hromada>
+			<hromada name="Романівська" type="селищна"></hromada>
+			<hromada name="Станишівська" type="сільська"></hromada>
+			<hromada name="Старосілецька" type="сільська"></hromada>
+			<hromada name="Тетерівська" type="сільська"></hromada>
+			<hromada name="Харитонівська" type="сільська"></hromada>
+			<hromada name="Хорошівська" type="селищна"></hromada>
+			<hromada name="Черняхівська" type="селищна"></hromada>
+			<hromada name="Чуднівська" type="міська">
+				<city name="Чуднів"></city>
+			</hromada>
+		</district>
+		<district name="Коростенський">
+			<hromada name="Білокоровицька" type="сільська"></hromada>
+			<hromada name="Гладковицька" type="сільська"></hromada>
+			<hromada name="Горщиківська" type="сільська"></hromada>
+			<hromada name="Іршанська" type="селищна"></hromada>
+			<hromada name="Коростенська" type="міська">
+				<city name="Коростень"></city>
+			</hromada>
+			<hromada name="Лугинська" type="селищна"></hromada>
+			<hromada name="Малинська" type="міська">
+				<city name="Малин"></city>
+			</hromada>
+			<hromada name="Народицька" type="селищна"></hromada>
+			<hromada name="Овруцька" type="міська">
+				<city name="Овруч"></city>
+			</hromada>
+			<hromada name="Олевська" type="міська">
+				<city name="Олевськ"></city>
+			</hromada>
+			<hromada name="Словечанська" type="сільська"></hromada>
+			<hromada name="Ушомирська" type="сільська"></hromada>
+			<hromada name="Чоповицька" type="селищна"></hromada>
+		</district>
+		<district name="Новоград-Волинський">
+			<hromada name="Баранівська" type="міська">
+				<city name="Баранівка"></city>
+			</hromada>
+			<hromada name="Барашівська" type="сільська"></hromada>
+			<hromada name="Брониківська" type="сільська"></hromada>
+			<hromada name="Городницька" type="селищна"></hromada>
+			<hromada name="Довбиська" type="селищна"></hromada>
+			<hromada name="Дубрівська" type="сільська"></hromada>
+			<hromada name="Ємільчинська" type="селищна"></hromada>
+			<hromada name="Новоград-Волинська" type="міська">
+				<city name="Новоград-Волинський"></city>
+			</hromada>
+			<hromada name="Піщівська" type="сільська"></hromada>
+			<hromada name="Стриївська" type="сільська"></hromada>
+			<hromada name="Чижівська" type="сільська"></hromada>
+			<hromada name="Ярунська" type="сільська"></hromada>
+		</district>
+	</province>
+	<province name="Закарпатська">
+		<district name="Берегівський">
+			<hromada name="Батівська" type="селищна"></hromada>
+			<hromada name="Берегівська" type="міська">
+				<city name="Берегове"></city>
+			</hromada>
+			<hromada name="Великоберезька" type="сільська"></hromada>
+			<hromada name="Великобийганська" type="сільська"></hromada>
+			<hromada name="Вилоцька" type="селищна"></hromada>
+			<hromada name="Виноградівська" type="міська">
+				<city name="Виноградів"></city>
+			</hromada>
+			<hromada name="Кам'янська" type="сільська"></hromada>
+			<hromada name="Королівська" type="селищна"></hromada>
+			<hromada name="Косоньська" type="сільська"></hromada>
+			<hromada name="Пийтерфолвівська" type="сільська"></hromada>
+		</district>
+		<district name="Мукачівський">
+			<hromada name="Великолучківська" type="сільська"></hromada>
+			<hromada name="Верхньокоропецька" type="сільська"></hromada>
+			<hromada name="Воловецька" type="селищна"></hromada>
+			<hromada name="Горондівська" type="сільська"></hromada>
+			<hromada name="Жденіївська" type="селищна"></hromada>
+			<hromada name="Івановецька" type="сільська"></hromada>
+			<hromada name="Кольчинська" type="селищна"></hromada>
+			<hromada name="Мукачівська" type="міська">
+				<city name="Мукачеве"></city>
+			</hromada>
+			<hromada name="Неліпинська" type="сільська"></hromada>
+			<hromada name="Нижньоворітська" type="сільська"></hromada>
+			<hromada name="Полянська" type="сільська"></hromada>
+			<hromada name="Свалявська" type="міська">
+				<city name="Свалява"></city>
+			</hromada>
+			<hromada name="Чинадіївська" type="селищна"></hromada>
+		</district>
+		<district name="Рахівський">
+			<hromada name="Богданська" type="сільська"></hromada>
+			<hromada name="Великобичківська" type="селищна"></hromada>
+			<hromada name="Рахівська" type="міська">
+				<city name="Рахів"></city>
+			</hromada>
+			<hromada name="Ясінянська" type="селищна"></hromada>
+		</district>
+		<district name="Тячівський">
+			<hromada name="Бедевлянська" type="сільська"></hromada>
+			<hromada name="Буштинська" type="селищна"></hromada>
+			<hromada name="Вільховецька" type="сільська"></hromada>
+			<hromada name="Дубівська" type="селищна"></hromada>
+			<hromada name="Нересницька" type="сільська"></hromada>
+			<hromada name="Солотвинська" type="селищна"></hromada>
+			<hromada name="Тересвянська" type="селищна"></hromada>
+			<hromada name="Тячівська" type="міська">
+				<city name="Тячів"></city>
+			</hromada>
+			<hromada name="Углянська" type="сільська"></hromada>
+			<hromada name="Усть-Чорнянська" type="селищна"></hromada>
+		</district>
+		<district name="Ужгородський">
+			<hromada name="Баранинська" type="сільська"></hromada>
+			<hromada name="Великоберезнянська" type="селищна"></hromada>
+			<hromada name="Великодобронська" type="сільська"></hromada>
+			<hromada name="Дубриницько-Малоберезнянська" type="сільська"></hromada>
+			<hromada name="Костринська" type="сільська"></hromada>
+			<hromada name="Оноківська" type="сільська"></hromada>
+			<hromada name="Перечинська" type="міська">
+				<city name="Перечин"></city>
+			</hromada>
+			<hromada name="Середнянська" type="селищна"></hromada>
+			<hromada name="Ставненська" type="сільська"></hromada>
+			<hromada name="Сюртівська" type="сільська"></hromada>
+			<hromada name="Тур'є-Реметівська" type="сільська"></hromada>
+			<hromada name="Ужгородська" type="міська">
+				<city name="Ужгород"></city>
+			</hromada>
+			<hromada name="Холмківська" type="сільська"></hromada>
+			<hromada name="Чопська" type="міська">
+				<city name="Чоп"></city>
+			</hromada>
+		</district>
+		<district name="Хустський">
+			<hromada name="Білківська" type="сільська"></hromada>
+			<hromada name="Вишківська" type="селищна"></hromada>
+			<hromada name="Горінчівська" type="сільська"></hromada>
+			<hromada name="Довжанська" type="сільська"></hromada>
+			<hromada name="Драгівська" type="сільська"></hromada>
+			<hromada name="Зарічанська" type="сільська"></hromada>
+			<hromada name="Іршавська" type="міська">
+				<city name="Іршава"></city>
+			</hromada>
+			<hromada name="Кам'янська" type="сільська"></hromada>
+			<hromada name="Керецьківська" type="сільська"></hromada>
+			<hromada name="Колочавська" type="сільська"></hromada>
+			<hromada name="Міжгірська" type="селищна"></hromada>
+			<hromada name="Пилипецька" type="сільська"></hromada>
+			<hromada name="Синевирська" type="сільська"></hromada>
+			<hromada name="Хустська" type="міська">
+				<city name="Хуст"></city>
+			</hromada>
+		</district>
+	</province>
+	<province name="Запорізька">
+		<district name="Бердянський">
 
-        </district>
-        <district name="Василівський">
+		</district>
+		<district name="Василівський">
 
-        </district>
-        <district name="Запорізький">
-            <item name="Запоріжжя">
-                <citydistrict name="Олександрівський"></citydistrict>
-                <citydistrict name="Заводський"></citydistrict>
-                <citydistrict name="Комунарський"></citydistrict>
-                <citydistrict name="Дніпровський"></citydistrict>
-                <citydistrict name="Вознесенівський"></citydistrict>
-                <citydistrict name="Хортицький"></citydistrict>
-                <citydistrict name="Шевченківський"></citydistrict>
-            </item>
-        </district>
-        <district name="Мелітопольський">
+		</district>
+		<district name="Запорізький">
+			<city name="Запоріжжя">
+				<citydistrict name="Олександрівський"></citydistrict>
+				<citydistrict name="Заводський"></citydistrict>
+				<citydistrict name="Комунарський"></citydistrict>
+				<citydistrict name="Дніпровський"></citydistrict>
+				<citydistrict name="Вознесенівський"></citydistrict>
+				<citydistrict name="Хортицький"></citydistrict>
+				<citydistrict name="Шевченківський"></citydistrict>
+			</city>
+		</district>
+		<district name="Мелітопольський">
 
-        </district>
-        <district name="Пологівський">
+		</district>
+		<district name="Пологівський">
 
-        </district>
-    </province>
-    <province name="Івано-Франківська">
-        <item name="Верховинський">
+		</district>
+	</province>
+	<province name="Івано-Франківська">
+		<item name="Верховинський">
 
-        </item>
-        <item name="Івано-Франківський">
+		</item>
+		<item name="Івано-Франківський">
 
-        </item>
-        <item name="Калуський">
+		</item>
+		<item name="Калуський">
 
-        </item>
-        <item name="Коломийський">
+		</item>
+		<item name="Коломийський">
 
-        </item>
-        <item name="Косівський">
+		</item>
+		<item name="Косівський">
 
-        </item>
-        <item name="Надвірнянський">
+		</item>
+		<item name="Надвірнянський">
 
-        </item>
-    </province>
-    <province name="Київська">
-        <district name="Білоцерківський">
+		</item>
+	</province>
+	<province name="Київська">
+		<district name="Білоцерківський">
 
-        </district>
-        <district name="Бориспільський">
+		</district>
+		<district name="Бориспільський">
 
-        </district>
-        <district name="Броварський">
+		</district>
+		<district name="Броварський">
 
-        </district>
-        <district name="Бучанський">
+		</district>
+		<district name="Бучанський">
 
-        </district>
-        <district name="Вишгородський">
+		</district>
+		<district name="Вишгородський">
 
-        </district>
-        <district name="Обухівський">
+		</district>
+		<district name="Обухівський">
 
-        </district>
-        <district name="Фастівський">
+		</district>
+		<district name="Фастівський">
 
-        </district>
-    </province>
-    <province name="Кіровоградська">
-        <item name="Голованівський">
+		</district>
+	</province>
+	<province name="Кіровоградська">
+		<item name="Голованівський">
 
-        </item>
-        <item name="Кропивницький">
-            <item name="Кропивницький"></item>
-        </item>
-        <item name="Новоукраїнський">
+		</item>
+		<item name="Кропивницький">
+			<item name="Кропивницький">
+				<citydistrict name="Фортечний"></citydistrict>
+				<citydistrict name="Подільський"></citydistrict>
+			</item>
+		</item>
+		<item name="Новоукраїнський">
 
-        </item>
-        <item name="Олександрійський">
+		</item>
+		<item name="Олександрійський">
 
-        </item>
-    </province>
-    <province name="Луганська">
-        <item name="Сватівський">
+		</item>
+	</province>
+	<province name="Луганська">
+		<district name="Сватівський">
 
-        </item>
-        <item name="Сєвєродонецький">
+		</district>
+		<district name="Сєвєродонецький">
 
-        </item>
-        <item name="Старобільський">
+		</district>
+		<district name="Старобільський">
 
-        </item>
-        <item name="Щастинський">
+		</district>
+		<district name="Щастинський">
 
-        </item>
-        <item name="Алчевський">
+		</district>
+		<district name="Алчевський">
 
-        </item>
-        <item name="Довжанський">
+		</district>
+		<district name="Довжанський">
 
-        </item>
-        <item name="Луганський">
-            <item name="Луганськ"></item>
-        </item>
-        <item name="Ровеньківський">
+		</district>
+		<district name="Луганський">
+			<city name="Луганськ">
+				<citydistrict name="Артемівський"></citydistrict>
+				<citydistrict name="Жовтневий"></citydistrict>
+				<citydistrict name="Кам'янобрідський"></citydistrict>
+				<citydistrict name="Ленінський"></citydistrict>
+			</city>
+		</district>
+		<district name="Ровеньківський">
 
-        </item>
-    </province>
-    <province name="Львівська">
-        <item name="Дрогобицький">
-            <item name="Дрогобич"></item>
-        </item>
-        <item name="Золочівський">
-            <item name="Золочів"></item>
-        </item>
-        <item name="Львівський">
-            <item name="Львів"></item>
-        </item>
-        <item name="Самбірський">
-            <item name="Самбір"></item>
-        </item>
-        <item name="Стрийський">
-            <item name="Стрий"></item>
-        </item>
-        <item name="Червоноградський">
-            <item name="Червоноград"></item>
-        </item>
-        <item name="Яворівський">
-            <item name="Яворів"></item>
-        </item>
-    </province>
-    <province name="Миколаївська">
-        <item name="Баштанський">
+		</district>
+	</province>
+	<province name="Львівська">
+		<district name="Дрогобицький">
+			<city name="Дрогобич"></city>
+		</district>
+		<district name="Золочівський">
+			<city name="Золочів"></city>
+		</district>
+		<district name="Львівський">
+			<city name="Львів">
+				<citydistrict name="Галицький"></citydistrict>
+				<citydistrict name="Залізничний"></citydistrict>
+				<citydistrict name="Личаківський"></citydistrict>
+				<citydistrict name="Сихівський"></citydistrict>
+				<citydistrict name="Франківський"></citydistrict>
+				<citydistrict name="Шевченківський"></citydistrict>
+			</city>
+		</district>
+		<district name="Самбірський">
+			<city name="Самбір"></city>
+		</district>
+		<district name="Стрийський">
+			<city name="Стрий"></city>
+		</district>
+		<district name="Червоноградський">
+			<city name="Червоноград"></city>
+		</district>
+		<district name="Яворівський">
+			<city name="Яворів"></city>
+		</district>
+	</province>
+	<province name="Миколаївська">
+		<district name="Баштанський">
 
-        </item>
-        <item name="Вознесенський">
+		</district>
+		<district name="Вознесенський">
 
-        </item>
-        <item name="Миколаївський">
-            <item name="Миколаїв"></item>
-        </item>
-        <item name="Первомайський">
+		</district>
+		<district name="Миколаївський">
+			<city name="Миколаїв">
+				<citydistrict name="Заводський"></citydistrict>
+				<citydistrict name="Інгульський"></citydistrict>
+				<citydistrict name="Корабельний"></citydistrict>
+				<citydistrict name="Центральний"></citydistrict>
+			</city>
+		</district>
+		<district name="Первомайський">
 
-        </item>
-    </province>
-    <province name="Одеська">
-        <item name="Березівський">
-            <item name="Березівка"></item>
-        </item>
-        <item name="Білгород-Дністровський">
-            <item name="Білгород-Дністровський"></item>
-        </item>
-        <item name="Болградський">
-            <item name="Арциз"></item>
-            <item name="Болград"></item>
-        </item>
-        <item name="Ізмаїльський">
-            <item name="Вилкове"></item>
-            <item name="Ізмаїл"></item>
-            <item name="Кілія"></item>
-            <item name="Рені"></item>
-        </item>
-        <item name="Одеський">
-            <item name="Одеса">
-                <citydistrict name="Київський"></citydistrict>
-                <citydistrict name="Малиновський"></citydistrict>
-                <citydistrict name="Приморський"></citydistrict>
-                <citydistrict name="Суворовський"></citydistrict>
-            </item>
-            <item name="Біляївка"></item>
-            <item name="Теплодар"></item>
-            <item name="Чорноморськ"></item>
-            <item name="Южне"></item>
-        </item>
-        <item name="Подільський">
-            <item name="Ананьїв"></item>
-            <item name="Балта"></item>
-            <item name="Кодима"></item>
-            <item name="Подільськ"></item>
-        </item>
-        <item name="Роздільнянський">
-            <item name="Роздільна"></item>
-        </item>
-    </province>
-    <province name="Полтавська">
-        <item name="Кременчуцький">
+		</district>
+	</province>
+	<province name="Одеська">
+		<item name="Березівський">
+			<item name="Березівка"></item>
+		</item>
+		<item name="Білгород-Дністровський">
+			<item name="Білгород-Дністровський"></item>
+		</item>
+		<item name="Болградський">
+			<item name="Арциз"></item>
+			<item name="Болград"></item>
+		</item>
+		<item name="Ізмаїльський">
+			<item name="Вилкове"></item>
+			<item name="Ізмаїл"></item>
+			<item name="Кілія"></item>
+			<item name="Рені"></item>
+		</item>
+		<item name="Одеський">
+			<item name="Одеса">
+				<citydistrict name="Київський"></citydistrict>
+				<citydistrict name="Малиновський"></citydistrict>
+				<citydistrict name="Приморський"></citydistrict>
+				<citydistrict name="Суворовський"></citydistrict>
+			</item>
+			<item name="Біляївка"></item>
+			<item name="Теплодар"></item>
+			<item name="Чорноморськ"></item>
+			<item name="Южне"></item>
+		</item>
+		<item name="Подільський">
+			<item name="Ананьїв"></item>
+			<item name="Балта"></item>
+			<item name="Кодима"></item>
+			<item name="Подільськ"></item>
+		</item>
+		<item name="Роздільнянський">
+			<item name="Роздільна"></item>
+		</item>
+	</province>
+	<province name="Полтавська">
+		<district name="Кременчуцький">
+			<city name="Кременчук">
+				<citydistrict name="Автозаводський"></citydistrict>
+				<citydistrict name="Крюківський"></citydistrict>
+			</city>
+		</district>
+		<district name="Лубенський">
 
-        </item>
-        <item name="Лубенський">
+		</district>
+		<district name="Миргородський">
 
-        </item>
-        <item name="Миргородський">
+		</district>
+		<district name="Полтавський">
+			<city name="Полтава">
+				<citydistrict name="Шевченківський"></citydistrict>
+				<citydistrict name="Київський"></citydistrict>
+				<citydistrict name="Подільський"></citydistrict>
+			</city>
+		</district>
+	</province>
+	<province name="Рівненська">
+		<item name="Вараський">
 
-        </item>
-        <item name="Полтавський">
-            <item name="Полтава"></item>
-        </item>
-    </province>
-    <province name="Рівненська">
-        <item name="Вараський">
+		</item>
+		<item name="Дубенський">
 
-        </item>
-        <item name="Дубенський">
+		</item>
+		<item name="Рівненський">
+			<item name="Рівне"></item>
+		</item>
+		<item name="Сарненський">
 
-        </item>
-        <item name="Рівненський">
-            <item name="Рівне"></item>
-        </item>
-        <item name="Сарненський">
+		</item>
+	</province>
+	<province name="Сумська">
+		<district name="Конотопський">
 
-        </item>
-    </province>
-    <province name="Сумська">
-        <item name="Конотопський">
+		</district>
+		<district name="Охтирський">
 
-        </item>
-        <item name="Охтирський">
+		</district>
+		<district name="Роменський">
 
-        </item>
-        <item name="Роменський">
+		</district>
+		<district name="Сумський">
+			<city name="Суми">
+				<citydistrict name="Зарічний"></citydistrict>
+				<citydistrict name="Ковпаківський"></citydistrict>
+			</city>
+		</district>
+		<district name="Шосткинський">
 
-        </item>
-        <item name="Сумський">
-            <item name="Суми"></item>
-        </item>
-        <item name="Шосткинський">
+		</district>
+	</province>
+	<province name="Тернопільська">
+		<item name="Кременецький">
 
-        </item>
-    </province>
-    <province name="Тернопільська">
-        <item name="Кременецький">
+		</item>
+		<item name="Тернопільський">
+			<item name="Тернопіль"></item>
+		</item>
+		<item name="Чортківський">
 
-        </item>
-        <item name="Тернопільський">
-            <item name="Тернопіль"></item>
-        </item>
-        <item name="Чортківський">
+		</item>
+	</province>
+	<province name="Харківська">
+		<district name="Богодухівський">
 
-        </item>
-    </province>
-    <province name="Харківська">
-        <item name="Богодухівський">
+		</district>
+		<district name="Ізюмський">
 
-        </item>
-        <item name="Ізюмський">
+		</district>
+		<district name="Красноградський">
 
-        </item>
-        <item name="Красноградський">
+		</district>
+		<district name="Куп'янський">
 
-        </item>
-        <item name="Куп'янський">
+		</district>
+		<district name="Лозівський">
 
-        </item>
-        <item name="Лозівський">
+		</district>
+		<district name="Харківський">
+			<city name="Харків">
+				<citydistrict name="Шевченківський"></citydistrict>
+				<citydistrict name="Новобаварський"></citydistrict>
+				<citydistrict name="Київський"></citydistrict>
+				<citydistrict name="Слобідський"></citydistrict>
+				<citydistrict name="Холодногірський"></citydistrict>
+				<citydistrict name="Московський"></citydistrict>
+				<citydistrict name="Індустріальний"></citydistrict>
+				<citydistrict name="Немишлянський"></citydistrict>
+				<citydistrict name="Основ'янський"></citydistrict>
+			</city>
+		</district>
+		<district name="Чугуївський">
 
-        </item>
-        <item name="Харківський">
-            <item name="Харків">
-                <citydistrict name="Шевченківський"></citydistrict>
-                <citydistrict name="Новобаварський"></citydistrict>
-                <citydistrict name="Київський"></citydistrict>
-                <citydistrict name="Слобідський"></citydistrict>
-                <citydistrict name="Холодногірський"></citydistrict>
-                <citydistrict name="Московський"></citydistrict>
-                <citydistrict name="Індустріальний"></citydistrict>
-                <citydistrict name="Немишлянський"></citydistrict>
-                <citydistrict name="Основ'янський"></citydistrict>
-            </item>
-        </item>
-        <item name="Чугуївський">
+		</district>
+	</province>
+	<province name="Херсонська">
+		<district name="Бериславський">
 
-        </item>
-    </province>
-    <province name="Херсонська">
-        <item name="Бериславський">
+		</district>
+		<district name="Генічеський">
 
-        </item>
-        <item name="Генічеський">
+		</district>
+		<district name="Каховський">
 
-        </item>
-        <item name="Каховський">
+		</district>
+		<district name="Скадовський">
 
-        </item>
-        <item name="Скадовський">
-
-        </item>
-        <item name="Херсонський">
-            <item name="Херсон"></item>
-        </item>
-    </province>
-    <province name="Хмельницька">
-        <item name="Кам'янець-Подільський">
-            <item name="Кам'янець-Подільський"></item>
-            <item name="Дунаївці"></item>
-        </item>
-        <item name="Хмельницький">
-            <item name="Хмельницький"></item>
-            <item name="Волочиськ"></item>
-            <item name="Городок"></item>
-            <item name="Деражня"></item>
-            <item name="Старокостянтинів"></item>
-        </item>
-        <item name="Шепетівський">
-            <item name="Шепетівка"></item>
-            <item name="Ізяслав"></item>
-            <item name="Нетішин"></item>
-            <item name="Полонне"></item>
-            <item name="Славута"></item>
-        </item>
-    </province>
-    <province name="Черкаська">
-        <item name="Звенигородський">
-            <item name="Ватутіне"></item>
-            <item name="Звенигородка"></item>
-            <item name="Тальне"></item>
-            <item name="Шпола"></item>
-        </item>
-        <item name="Золотоніський">
-            <item name="Золотоноша"></item>
-        </item>
-        <item name="Уманський">
-            <item name="Жашків"></item>
-            <item name="Монастирище"></item>
-            <item name="Умань"></item>
-            <item name="Христинівка"></item>
-        </item>
-        <item name="Черкаський">
-            <item name="Черкаси"></item>
-            <item name="Городище"></item>
-            <item name="Кам'янка"></item>
-            <item name="Канів"></item>
-            <item name="Корсунь-Шевченківський"></item>
-            <item name="Сміла"></item>
-            <item name="Чигирин"></item>
-        </item>
-    </province>
-    <province name="Чернівецька">
-        <district name="Вижницький">
-            <hromada name="Банилівська" type="сільська"></hromada>
-            <hromada name="Берегометська" type="селищна"></hromada>
-            <hromada name="Брусницька" type="сільська"></hromada>
-            <hromada name="Вашківецька" type="міська">
-                <city name="Вашківці"></city>
-            </hromada>
-            <hromada name="Вижницька" type="міська">
-                <city name="Вижниця"></city>
-            </hromada>
-            <hromada name="Конятинська" type="сільська"></hromada>
-            <hromada name="Путильська" type="селищна"></hromada>
-            <hromada name="Селятинська" type="сільська"></hromada>
-            <hromada name="Усть-Путильська" type="сільська"></hromada>
-        </district>
-        <district name="Дністровський">
-            <hromada name="Вашковецька" type="сільська"></hromada>
-            <hromada name="Кельменецька" type="селищна"></hromada>
-            <hromada name="Клішковецька" type="сільська"></hromada>
-            <hromada name="Лівинецька" type="сільська"></hromada>
-            <hromada name="Мамалигівська" type="сільська"></hromada>
-            <hromada name="Недобоївська" type="сільська"></hromada>
-            <hromada name="Новодністровська" type="міська">
-                <city name="Новодністровськ"></city>
-            </hromada>
-            <hromada name="Рукшинська" type="сільська"></hromada>
-            <hromada name="Сокирянська" type="міська">
-                <city name="Сокиряни"></city>
-            </hromada>
-            <hromada name="Хотинська" type="міська">
-                <city name="Хотин"></city>
-            </hromada>
-        </district>
-        <district name="Чернівецький">
-            <hromada name="Боянська" type="сільська"></hromada>
-            <hromada name="Ванчиковецька" type="сільська"></hromada>
-            <hromada name="Великокучурівська" type="сільська"></hromada>
-            <hromada name="Веренчанська" type="сільська"></hromada>
-            <hromada name="Вікнянська" type="сільська"></hromada>
-            <hromada name="Волоківська" type="сільська"></hromada>
-            <hromada name="Герцаївська" type="міська">
-                <city name="Герца"></city>
-            </hromada>
-            <hromada name="Глибоцька" type="селищна"></hromada>
-            <hromada name="Горішньошеровецька" type="сільська"></hromada>
-            <hromada name="Заставнівська" type="міська">
-                <city name="Заставна"></city>
-            </hromada>
-            <hromada name="Кадубовецька" type="сільська"></hromada>
-            <hromada name="Кам'янецька" type="сільська"></hromada>
-            <hromada name="Кам'янська" type="сільська"></hromada>
-            <hromada name="Карапчівська" type="сільська"></hromada>
-            <hromada name="Кіцманська" type="міська">
-                <city name="Кіцмань"></city>
-            </hromada>
-            <hromada name="Кострижівська" type="селищна"></hromada>
-            <hromada name="Краснальська" type="селищна"></hromada>
-            <hromada name="Магальська" type="сільська"></hromada>
-            <hromada name="Мамаївська" type="сільська"></hromada>
-            <hromada name="Неполоковецька" type="селищна"></hromada>
-            <hromada name="Новоселицька" type="міська">
-                <city name="Новоселиця"></city>
-            </hromada>
-            <hromada name="Острицька" type="сільська"></hromada>
-            <hromada name="Петровецька" type="сільська"></hromada>
-            <hromada name="Ставчанська" type="сільська"></hromada>
-            <hromada name="Сторожинецька" type="міська">
-                <city name="Сторожинець"></city>
-            </hromada>
-            <hromada name="Сучевенська" type="сільська"></hromada>
-            <hromada name="Тарашанська" type="сільська"></hromada>
-            <hromada name="Тереблеченська" type="сільська"></hromada>
-            <hromada name="Топорівська" type="сільська"></hromada>
-            <hromada name="Чагорська" type="сільська"></hromada>
-            <hromada name="Чернівецька" type="міська">
-                <city name="Чернівці">
-                    <citydistrict name="Першотравневий"></citydistrict>
-                    <citydistrict name="Шевченківський"></citydistrict>
-                    <citydistrict name="Садгірський"></citydistrict>
-                </city>
-            </hromada>
-            <hromada name="Чудейська" type="сільська"></hromada>
-            <hromada name="Юрковецька" type="сільська"></hromada>
-        </district>
-    </province>
-    <province name="Чернігівська">
-        <item name="Корюківський">
-            <item name="Корюківка"></item>
-            <item name="Мена"></item>
-            <item name="Сновськ"></item>
-        </item>
-        <item name="Ніжинський">
-            <item name="Ніжин"></item>
-            <item name="Батурин"></item>
-            <item name="Бахмач"></item>
-            <item name="Бобровиця"></item>
-            <item name="Борзна"></item>
-            <item name="Носів"></item>
-        </item>
-        <item name="Новгород-Сіверський">
-            <item name="Новгород-Сіверський"></item>
-            <item name="Семенівка"></item>
-        </item>
-        <item name="Прилуцький">
-            <item name="Прилуки"></item>
-            <item name="Ічня"></item>
-        </item>
-        <item name="Чернігівський">
-            <item name="Чернігів">
-                <item name="Деснянський"></item>
-                <item name="Новозаводський"></item>
-            </item>
-            <item name="Городня"></item>
-            <item name="Остер"></item>
-        </item>
-    </province>
+		</district>
+		<district name="Херсонський">
+			<city name="Херсон">
+				<citydistrict name="Дніпровський"></citydistrict>
+				<citydistrict name="Корабельний"></citydistrict>
+				<citydistrict name="Суворовський"></citydistrict>
+			</city>
+		</district>
+	</province>
+	<province name="Хмельницька">
+		<item name="Кам'янець-Подільський">
+			<item name="Кам'янець-Подільський"></item>
+			<item name="Дунаївці"></item>
+		</item>
+		<item name="Хмельницький">
+			<item name="Хмельницький"></item>
+			<item name="Волочиськ"></item>
+			<item name="Городок"></item>
+			<item name="Деражня"></item>
+			<item name="Старокостянтинів"></item>
+		</item>
+		<item name="Шепетівський">
+			<item name="Шепетівка"></item>
+			<item name="Ізяслав"></item>
+			<item name="Нетішин"></item>
+			<item name="Полонне"></item>
+			<item name="Славута"></item>
+		</item>
+	</province>
+	<province name="Черкаська">
+		<district name="Звенигородський">
+			<item name="Ватутіне"></item>
+			<item name="Звенигородка"></item>
+			<item name="Тальне"></item>
+			<item name="Шпола"></item>
+		</district>
+		<district name="Золотоніський">
+			<item name="Золотоноша"></item>
+		</district>
+		<district name="Уманський">
+			<item name="Жашків"></item>
+			<item name="Монастирище"></item>
+			<item name="Умань"></item>
+			<item name="Христинівка"></item>
+		</district>
+		<district name="Черкаський">
+			<city name="Черкаси">
+				<citydistrict name="Придніпровський"></citydistrict>
+				<citydistrict name="Соснівський"></citydistrict>
+			</city>
+			<item name="Городище"></item>
+			<item name="Кам'янка"></item>
+			<item name="Канів"></item>
+			<item name="Корсунь-Шевченківський"></item>
+			<item name="Сміла"></item>
+			<item name="Чигирин"></item>
+		</district>
+	</province>
+	<province name="Чернівецька">
+		<district name="Вижницький">
+			<hromada name="Банилівська" type="сільська"></hromada>
+			<hromada name="Берегометська" type="селищна"></hromada>
+			<hromada name="Брусницька" type="сільська"></hromada>
+			<hromada name="Вашківецька" type="міська">
+				<city name="Вашківці"></city>
+			</hromada>
+			<hromada name="Вижницька" type="міська">
+				<city name="Вижниця"></city>
+			</hromada>
+			<hromada name="Конятинська" type="сільська"></hromada>
+			<hromada name="Путильська" type="селищна"></hromada>
+			<hromada name="Селятинська" type="сільська"></hromada>
+			<hromada name="Усть-Путильська" type="сільська"></hromada>
+		</district>
+		<district name="Дністровський">
+			<hromada name="Вашковецька" type="сільська"></hromada>
+			<hromada name="Кельменецька" type="селищна"></hromada>
+			<hromada name="Клішковецька" type="сільська"></hromada>
+			<hromada name="Лівинецька" type="сільська"></hromada>
+			<hromada name="Мамалигівська" type="сільська"></hromada>
+			<hromada name="Недобоївська" type="сільська"></hromada>
+			<hromada name="Новодністровська" type="міська">
+				<city name="Новодністровськ"></city>
+			</hromada>
+			<hromada name="Рукшинська" type="сільська"></hromada>
+			<hromada name="Сокирянська" type="міська">
+				<city name="Сокиряни"></city>
+			</hromada>
+			<hromada name="Хотинська" type="міська">
+				<city name="Хотин"></city>
+			</hromada>
+		</district>
+		<district name="Чернівецький">
+			<hromada name="Боянська" type="сільська"></hromada>
+			<hromada name="Ванчиковецька" type="сільська"></hromada>
+			<hromada name="Великокучурівська" type="сільська"></hromada>
+			<hromada name="Веренчанська" type="сільська"></hromada>
+			<hromada name="Вікнянська" type="сільська"></hromada>
+			<hromada name="Волоківська" type="сільська"></hromada>
+			<hromada name="Герцаївська" type="міська">
+				<city name="Герца"></city>
+			</hromada>
+			<hromada name="Глибоцька" type="селищна"></hromada>
+			<hromada name="Горішньошеровецька" type="сільська"></hromada>
+			<hromada name="Заставнівська" type="міська">
+				<city name="Заставна"></city>
+			</hromada>
+			<hromada name="Кадубовецька" type="сільська"></hromada>
+			<hromada name="Кам'янецька" type="сільська"></hromada>
+			<hromada name="Кам'янська" type="сільська"></hromada>
+			<hromada name="Карапчівська" type="сільська"></hromada>
+			<hromada name="Кіцманська" type="міська">
+				<city name="Кіцмань"></city>
+			</hromada>
+			<hromada name="Кострижівська" type="селищна"></hromada>
+			<hromada name="Краснальська" type="селищна"></hromada>
+			<hromada name="Магальська" type="сільська"></hromada>
+			<hromada name="Мамаївська" type="сільська"></hromada>
+			<hromada name="Неполоковецька" type="селищна"></hromada>
+			<hromada name="Новоселицька" type="міська">
+				<city name="Новоселиця"></city>
+			</hromada>
+			<hromada name="Острицька" type="сільська"></hromada>
+			<hromada name="Петровецька" type="сільська"></hromada>
+			<hromada name="Ставчанська" type="сільська"></hromada>
+			<hromada name="Сторожинецька" type="міська">
+				<city name="Сторожинець"></city>
+			</hromada>
+			<hromada name="Сучевенська" type="сільська"></hromada>
+			<hromada name="Тарашанська" type="сільська"></hromada>
+			<hromada name="Тереблеченська" type="сільська"></hromada>
+			<hromada name="Топорівська" type="сільська"></hromada>
+			<hromada name="Чагорська" type="сільська"></hromada>
+			<hromada name="Чернівецька" type="міська">
+				<city name="Чернівці">
+					<citydistrict name="Першотравневий"></citydistrict>
+					<citydistrict name="Шевченківський"></citydistrict>
+					<citydistrict name="Садгірський"></citydistrict>
+				</city>
+			</hromada>
+			<hromada name="Чудейська" type="сільська"></hromada>
+			<hromada name="Юрковецька" type="сільська"></hromada>
+		</district>
+	</province>
+	<province name="Чернігівська">
+		<district name="Корюківський">
+			<item name="Корюківка"></item>
+			<item name="Мена"></item>
+			<item name="Сновськ"></item>
+		</district>
+		<district name="Ніжинський">
+			<item name="Ніжин"></item>
+			<item name="Батурин"></item>
+			<item name="Бахмач"></item>
+			<item name="Бобровиця"></item>
+			<item name="Борзна"></item>
+			<item name="Носів"></item>
+		</district>
+		<district name="Новгород-Сіверський">
+			<item name="Новгород-Сіверський"></item>
+			<item name="Семенівка"></item>
+		</district>
+		<district name="Прилуцький">
+			<item name="Прилуки"></item>
+			<item name="Ічня"></item>
+		</district>
+		<district name="Чернігівський">
+			<city name="Чернігів">
+				<citydistrict name="Деснянський"></citydistrict>
+				<citydistrict name="Новозаводський"></citydistrict>
+			</city>
+			<item name="Городня"></item>
+			<item name="Остер"></item>
+		</district>
+	</province>
 </root>
